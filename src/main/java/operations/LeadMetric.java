@@ -4,7 +4,8 @@ import base.Wrappers;
 
 ;
 import java.sql.SQLException;
-import java.sql.Statement;
+import java.util.ArrayList;
+import java.util.List;
 
 public class LeadMetric extends Wrappers {
     private final String sourceLeadsFile = "LEADS/LeadsSourceData.csv";
@@ -13,21 +14,26 @@ public class LeadMetric extends Wrappers {
     private final String finalLeadsFileMissing = "LEADS/LeadsFinalData_MissingRows.csv";
     private final String sourceLeadsFileDataError = "LEADS/LeadsSourceData_DataError.csv";
     private final String finalLeadsFileDataError = "LEADS/LeadsFinalData_DataError.csv";
-    private final String querySource = "SELECT * FROM PIPELINE_CLEAN.BULLHORN_CLEAN.LEADS where IS_DELETED = false AND CATEGORIES_ID != '[]' ORDER BY LEAD_ID";
-    private final String queryFinal = "SELECT * FROM METRICS_PIPELINE_UAT.METRICS_UAT.LEADS ORDER BY LEAD_ID";
+    private final String querySource = "PIPELINE_CLEAN.BULLHORN_CLEAN.LEADS where IS_DELETED = false AND CATEGORIES_ID != '[]' ORDER BY LEAD_ID";
+    private final String queryFinal = "METRICS_PIPELINE_UAT.METRICS_UAT.LEADS ORDER BY LEAD_ID";
+    List<String> leadsColumns = new ArrayList<>();
 
 
     public LeadMetric() throws SQLException {
     }
 
-    public void extractSourceFile(){
+   public void extractSourceFile(){
 
-        extractFile(sourceLeadsFile, "LEAD_ID", querySource);
+        leadsColumns.add("LEAD_ID");
+
+        extractFile(sourceLeadsFile, leadsColumns, querySource);
     }
 
     public void extractFinalFile(){
 
-        extractFile(finalLeadsFile, "LEAD_ID", queryFinal);
+        leadsColumns.add("LEAD_ID");
+
+        extractFile(finalLeadsFile, leadsColumns, queryFinal);
     }
 
     public boolean comparingLeadsFiles_Successful(){
@@ -44,6 +50,5 @@ public class LeadMetric extends Wrappers {
 
         return compareCSVFiles(sourceLeadsFileDataError, finalLeadsFileDataError);
     }
-
 
 }

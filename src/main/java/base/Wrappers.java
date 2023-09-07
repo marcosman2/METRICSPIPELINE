@@ -3,7 +3,9 @@ package base;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.FileWriter;
+import java.io.IOException;
 import java.sql.*;
+import java.util.List;
 
 public class Wrappers {
 
@@ -20,23 +22,61 @@ public class Wrappers {
     public Wrappers() throws SQLException {
     }
 
-    public void extractFile(String fileName, String columnLabel, String query){
 
-        try (FileWriter writer = new FileWriter(fileName)){
+    public void extractFile(String fileName, List<String> columns, String query) {
 
-            rs = stmt.executeQuery(query);
+        try {
 
-            while (rs.next()) {
-
-                String column1 = rs.getString(columnLabel);
-
-                writer.append(column1 + "\n");
+            StringBuilder queryBuilder = new StringBuilder("SELECT ");
+            for (String column : columns) {
+                queryBuilder.append(column).append(",");
             }
 
+            queryBuilder.deleteCharAt(queryBuilder.length() - 1); // Remove the trailing comma
+            queryBuilder.append(" FROM ").append(query);
+
+            rs = stmt.executeQuery(queryBuilder.toString());
+
+            try (FileWriter csvWriter = new FileWriter(fileName)) {
+                // Write column headers
+                ResultSetMetaData metaData = rs.getMetaData();
+                int columnCount = metaData.getColumnCount();
+                for (int i = 1; i <= columnCount; i++) {
+                    csvWriter.append(metaData.getColumnName(i));
+                    if (i < columnCount) {
+                        csvWriter.append(",");
+                    }
+                }
+                csvWriter.append("\n");
+
+                if(columns.get(0).equalsIgnoreCase("*")){
+
+                    columns.clear();
+
+                    for (int i = 1; i <= columnCount; i++) {
+
+                        columns.add(metaData.getColumnName(i));
+                    }
+                }
+
+                // Write data rows
+                while (rs.next()) {
+                    for (String column : columns) {
+                        csvWriter.append(rs.getString(column));
+                        if (columns.indexOf(column) < columns.size() - 1) {
+                            csvWriter.append(",");
+                        }
+                    }
+                    csvWriter.append("\n");
+                }
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+
+            columns.clear();
             rs.close();
         }
-        catch(Exception e){
-
+        catch (Exception e){
             e.printStackTrace();
         }
     }
@@ -68,4 +108,21 @@ public class Wrappers {
         stmt.close();
         conn.close();
     }
+
+    public void getColumnsName() throws SQLException {
+
+        String query = "SELECT * FROM METRICS_PIPELINE_UAT.METRICS_UAT.LEADS ORDER BY LEAD_ID";
+        rs = stmt.executeQuery(query);
+
+        ResultSetMetaData metaData = rs.getMetaData();
+
+        int columnCount = metaData.getColumnCount();
+
+        String[] columnHeaders = new String[columnCount];
+
+        for (int i = 1; i <= columnCount; i++) {
+            columnHeaders[i - 1] = metaData.getColumnName(i);
+        }
+    }
+
 }
