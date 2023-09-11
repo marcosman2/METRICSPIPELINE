@@ -5,6 +5,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.sql.*;
+import java.util.Arrays;
 import java.util.List;
 
 public class Wrappers {
@@ -18,6 +19,8 @@ public class Wrappers {
     Statement stmt = conn.createStatement();
     ResultSet rs;
     boolean areEq = true;
+
+    boolean areColumns = true;
 
     public Wrappers() throws SQLException {
     }
@@ -109,9 +112,8 @@ public class Wrappers {
         conn.close();
     }
 
-    public void getColumnsName() throws SQLException {
+    public String[] getColumnsName(String query) throws SQLException {
 
-        String query = "SELECT * FROM METRICS_PIPELINE_UAT.METRICS_UAT.LEADS ORDER BY LEAD_ID";
         rs = stmt.executeQuery(query);
 
         ResultSetMetaData metaData = rs.getMetaData();
@@ -123,6 +125,22 @@ public class Wrappers {
         for (int i = 1; i <= columnCount; i++) {
             columnHeaders[i - 1] = metaData.getColumnName(i);
         }
+
+        return columnHeaders;
+    }
+
+    public boolean areAllExpectedColumns(List<String> expectedColumns, String[] actualColumns){
+
+        List<String> actualColumnsList = Arrays.asList(actualColumns);
+
+        for(String column: expectedColumns){
+            if(!actualColumnsList.contains(column)){
+                areColumns = false;
+                System.out.println("Column not present: "+column);
+            }
+        }
+
+        return areColumns;
     }
 
 }
