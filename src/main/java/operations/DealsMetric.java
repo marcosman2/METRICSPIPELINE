@@ -38,7 +38,7 @@ public class DealsMetric extends Wrappers {
         extractFile(finalDealsFile, dealsColumns, queryFinal);
     }
 
-    public boolean comparingLeadsFiles_Successful(){
+    public boolean comparingDealsFiles_Successful(){
 
        return compareCSVFiles(sourceDealsFile, finalDealsFile);
     }

@@ -93,7 +93,9 @@ public class Wrappers {
             while ((line1 = reader1.readLine()) != null && (line2 = reader2.readLine()) != null) {
 
                 if (!line1.equals(line2)) {
-                    return areEq = false;
+
+                    areEq = false;
+                    System.out.println("SOURCE: "+line1+"\t"+"FINAL: "+line2);
                 }
             }
 
@@ -124,6 +126,7 @@ public class Wrappers {
 
         for (int i = 1; i <= columnCount; i++) {
             columnHeaders[i - 1] = metaData.getColumnName(i);
+            System.out.println("Column: "+columnHeaders[i - 1]);
         }
 
         return columnHeaders;

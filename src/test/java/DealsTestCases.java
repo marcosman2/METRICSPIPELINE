@@ -1,8 +1,6 @@
 import base.Wrappers;
 import operations.DealsMetric;
 import org.testng.Assert;
-import org.testng.annotations.BeforeClass;
-import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 import java.sql.SQLException;
@@ -21,7 +19,7 @@ public class DealsTestCases extends Wrappers {
         dealsMetric.extractSourceFile();
         dealsMetric.extractFinalFile();
         closeConnections();
-        Assert.assertTrue(dealsMetric.comparingLeadsFiles_Successful(), "Files are not equal");
+        Assert.assertTrue(dealsMetric.comparingDealsFiles_Successful(), "Files are not equal");
     }
 
     @Test (description = "Validating that expected columns are included on Final file")

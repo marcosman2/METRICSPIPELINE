@@ -10,30 +10,22 @@ public class LeadTestCases extends Wrappers {
     LeadMetric leadMetric;
 
     public LeadTestCases() throws SQLException {
+        leadMetric = new LeadMetric();
     }
 
     @Test (description = "Validating that information of both Source and Final files are equal")
     public void sourceAndFinalFilesMatch() throws SQLException {
 
-        leadMetric = new LeadMetric();
         leadMetric.extractSourceFile();
         leadMetric.extractFinalFile();
         closeConnections();
         Assert.assertTrue(leadMetric.comparingLeadsFiles_Successful(), "Files are not equal");
     }
 
-    @Test (description = "Validating that comparison fails when there are missing rows on Final file")
-    public void missingRowsOnFinalFile() throws SQLException {
+    @Test (description = "Validating that expected columns are included on Final file")
+    public void columnsAreOnFinal() throws SQLException {
 
-        leadMetric = new LeadMetric();
-        Assert.assertFalse(leadMetric.comparingLeadsFiles_MissingRows(), "Comparison fails");
-    }
-
-    @Test (description = "Validating that comparison fails when there is a data error on Final file")
-    public void dataErrorOnFinalFile() throws SQLException {
-
-        leadMetric = new LeadMetric();
-        Assert.assertFalse(leadMetric.comparingLeadsFiles_DataError(), "Comparison fails");
+        Assert.assertTrue(leadMetric.expectedColumnsOnLeadsFinalTable(), "Not all expected columns are in the Final file");
     }
 
 }

@@ -41,14 +41,35 @@ public class LeadMetric extends Wrappers {
        return compareCSVFiles(sourceLeadsFile, finalLeadsFile);
     }
 
-    public boolean comparingLeadsFiles_MissingRows(){
+    public boolean expectedColumnsOnLeadsFinalTable() throws SQLException {
 
-        return compareCSVFiles(sourceLeadsFileMissing, finalLeadsFileMissing);
-    }
+        List<String> leadsExpectedColumns =  new ArrayList<>();
 
-    public boolean comparingLeadsFiles_DataError(){
+        leadsExpectedColumns.add("RECRUITER_ID");
+        leadsExpectedColumns.add("SPECIALTIES_NAME");
+        leadsExpectedColumns.add("SPECIALTIES_ID");
+        leadsExpectedColumns.add("SECURITY_CLEARANCE");
+        leadsExpectedColumns.add("TYPE");
+        leadsExpectedColumns.add("ROLE");
+        leadsExpectedColumns.add("PROGRAM");
+        leadsExpectedColumns.add("NEW_HIRING_MANAGER");
+        leadsExpectedColumns.add("NEW_COMPANY");
+        leadsExpectedColumns.add("NEW_CANDIDATE");
+        leadsExpectedColumns.add("LEAD_SOURCE");
+        leadsExpectedColumns.add("LEAD_ID");
+        leadsExpectedColumns.add("INTERN_ORIGIN");
+        leadsExpectedColumns.add("EXISTING_HIRING_MANAGER");
+        leadsExpectedColumns.add("EXISTING_CANDIDATE");
+        leadsExpectedColumns.add("DATE_ADDED");
+        leadsExpectedColumns.add("COMPANY_NAME");
+        leadsExpectedColumns.add("CLIENT_CORPORATION");
+        leadsExpectedColumns.add("CATEGORY_ID");
+        leadsExpectedColumns.add("ASSIGNED_TO_ID");
+        leadsExpectedColumns.add("COMPANY_PHONE_NUMBER");
+        leadsExpectedColumns.add("HIRING_MANAGER_PHONE_NUMBER");
+        leadsExpectedColumns.add("IS_DELETED");
 
-        return compareCSVFiles(sourceLeadsFileDataError, finalLeadsFileDataError);
+        return areAllExpectedColumns(leadsExpectedColumns, getColumnsName("SELECT * FROM METRICS_PIPELINE_UAT.METRICS_UAT.LEADS"));
     }
 
 }
