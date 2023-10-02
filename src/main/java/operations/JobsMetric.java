@@ -11,7 +11,7 @@ import java.util.List;
 public class JobsMetric extends Wrappers {
     private final String sourceJobsFile = "JOBS/JobsSourceData.csv";
     private final String finalJobsFile = "JOBS/JobsFinalData.csv";
-    private final String querySource = "PIPELINE_CLEAN.BULLHORN_CLEAN.JOB_ORDERS WHERE IS_DELETED = FALSE ORDER BY ID";
+    private final String querySource = "PIPELINE_CLEAN.BULLHORN.JOB_ORDERS WHERE IS_DELETED = FALSE ORDER BY ID";
     private final String queryFinal = "METRICS_PIPELINE_UAT.METRICS_UAT.JOBS ORDER BY ID";
     List<String> jobsColumns = new ArrayList<>();
 
@@ -22,17 +22,17 @@ public class JobsMetric extends Wrappers {
    public void extractSourceFile(){
 
        jobsColumns.add("ID");
-       jobsColumns.add("IS_DELETED");
+       jobsColumns.add("OWNER");
 
-        extractFile(sourceJobsFile, jobsColumns, querySource);
+        extractFile(sourceJobsFile, jobsColumns, querySource, "SELECT DISTINCT ");
     }
 
     public void extractFinalFile(){
 
         jobsColumns.add("ID");
-        jobsColumns.add("IS_DELETED");
+        jobsColumns.add("OWNER");
 
-        extractFile(finalJobsFile, jobsColumns, queryFinal);
+        extractFile(finalJobsFile, jobsColumns, queryFinal, "SELECT DISTINCT ");
     }
 
     public boolean comparingJobsFiles_Successful(){

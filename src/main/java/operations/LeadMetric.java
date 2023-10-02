@@ -10,11 +10,7 @@ import java.util.List;
 public class LeadMetric extends Wrappers {
     private final String sourceLeadsFile = "LEADS/LeadsSourceData.csv";
     private final String finalLeadsFile = "LEADS/LeadsFinalData.csv";
-    private final String sourceLeadsFileMissing = "LEADS/LeadsSourceData_MissingRows.csv";
-    private final String finalLeadsFileMissing = "LEADS/LeadsFinalData_MissingRows.csv";
-    private final String sourceLeadsFileDataError = "LEADS/LeadsSourceData_DataError.csv";
-    private final String finalLeadsFileDataError = "LEADS/LeadsFinalData_DataError.csv";
-    private final String querySource = "PIPELINE_CLEAN.BULLHORN_CLEAN.LEADS where IS_DELETED = false AND CATEGORIES_ID != '[]' ORDER BY LEAD_ID";
+    private final String querySource = "PIPELINE_CLEAN.BULLHORN.LEADS where IS_DELETED = false AND CATEGORIES_ID != '[]' ORDER BY LEAD_ID";
     private final String queryFinal = "METRICS_PIPELINE_UAT.METRICS_UAT.LEADS ORDER BY LEAD_ID";
     List<String> leadsColumns = new ArrayList<>();
 
@@ -26,14 +22,14 @@ public class LeadMetric extends Wrappers {
 
         leadsColumns.add("LEAD_ID");
 
-        extractFile(sourceLeadsFile, leadsColumns, querySource);
+        extractFile(sourceLeadsFile, leadsColumns, querySource, "SELECT DISTINCT ");
     }
 
     public void extractFinalFile(){
 
         leadsColumns.add("LEAD_ID");
 
-        extractFile(finalLeadsFile, leadsColumns, queryFinal);
+        extractFile(finalLeadsFile, leadsColumns, queryFinal, "SELECT DISTINCT ");
     }
 
     public boolean comparingLeadsFiles_Successful(){
@@ -50,7 +46,7 @@ public class LeadMetric extends Wrappers {
         leadsExpectedColumns.add("SPECIALTIES_ID");
         leadsExpectedColumns.add("SECURITY_CLEARANCE");
         leadsExpectedColumns.add("TYPE");
-        leadsExpectedColumns.add("ROLE");
+        leadsExpectedColumns.add("JOB_TITLE");
         leadsExpectedColumns.add("PROGRAM");
         leadsExpectedColumns.add("NEW_HIRING_MANAGER");
         leadsExpectedColumns.add("NEW_COMPANY");

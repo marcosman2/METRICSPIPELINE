@@ -11,7 +11,7 @@ import java.util.List;
 public class InHousesMetric extends Wrappers {
     private final String sourceInHousesFile = "IN_HOUSES/InHousesSourceData.csv";
     private final String finalInHousesFile = "IN_HOUSES/InHousesFinalData.csv";
-    private final String querySource = "PIPELINE_CLEAN.BULLHORN_CLEAN.NOTES WHERE ACTION = 'InHouse Interview' AND IS_DELETED = FALSE ORDER BY 1";
+    private final String querySource = "PIPELINE_CLEAN.BULLHORN.NOTES WHERE ACTION = 'InHouse Interview' AND IS_DELETED = FALSE ORDER BY 1";
     private final String queryFinal = "METRICS_PIPELINE_UAT.METRICS_UAT.INHOUSE_INTERVIEWS ORDER BY 1";
     List<String> inHousesColumns = new ArrayList<>();
 
@@ -25,7 +25,7 @@ public class InHousesMetric extends Wrappers {
        inHousesColumns.add("ACTION");
        inHousesColumns.add("IS_DELETED");
 
-        extractFile(sourceInHousesFile, inHousesColumns, querySource);
+        extractFile(sourceInHousesFile, inHousesColumns, querySource, "SELECT DISTINCT ");
     }
 
     public void extractFinalFile(){
@@ -34,7 +34,7 @@ public class InHousesMetric extends Wrappers {
         inHousesColumns.add("ACTION");
         inHousesColumns.add("IS_DELETED");
 
-        extractFile(finalInHousesFile, inHousesColumns, queryFinal);
+        extractFile(finalInHousesFile, inHousesColumns, queryFinal, "SELECT DISTINCT ");
     }
 
     public boolean comparingInHousesFiles_Successful(){

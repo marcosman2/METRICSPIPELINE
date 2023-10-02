@@ -7,6 +7,8 @@ import java.io.IOException;
 import java.sql.*;
 import java.util.Arrays;
 import java.util.List;
+import org.apache.commons.csv.CSVFormat;
+import org.apache.commons.csv.CSVPrinter;
 
 public class Wrappers {
 
@@ -21,16 +23,16 @@ public class Wrappers {
     boolean areEq = true;
 
     boolean areColumns = true;
+    int maxValue;
 
     public Wrappers() throws SQLException {
     }
 
-
-    public void extractFile(String fileName, List<String> columns, String query) {
+    public void extractFile(String fileName, List<String> columns, String query, String queryStart) {
 
         try {
 
-            StringBuilder queryBuilder = new StringBuilder("SELECT ");
+            StringBuilder queryBuilder = new StringBuilder(queryStart);
             for (String column : columns) {
                 queryBuilder.append(column).append(",");
             }
@@ -95,11 +97,11 @@ public class Wrappers {
                 if (!line1.equals(line2)) {
 
                     areEq = false;
-                    System.out.println("SOURCE: "+line1+"\t"+"FINAL: "+line2);
+                    System.out.println("SOURCE: "+line1+"\t"+"METRIC: "+line2);
                 }
             }
 
-            return reader1.readLine() == null && reader2.readLine() == null;
+            //return reader1.readLine() == null && reader2.readLine() == null;
 
         } catch (Exception e) {
             e.printStackTrace();
@@ -144,6 +146,41 @@ public class Wrappers {
         }
 
         return areColumns;
+    }
+
+    public int getColumnValue(String query){
+
+        try{
+
+            rs = stmt.executeQuery(query);
+
+            if (rs.next())
+                maxValue = rs.getInt("MAX_DIFFERENCE_IN_WEEKS");
+        }
+        catch(Exception e){
+
+            e.printStackTrace();
+        }
+
+        return maxValue;
+    }
+
+    public void exportQueryResult(String query, String csvFilePath){
+
+        try(Statement statement = conn.createStatement();
+            ResultSet rs = statement.executeQuery(query);
+            FileWriter fileWriter = new FileWriter(csvFilePath);
+            CSVPrinter csvPrinter = new CSVPrinter(fileWriter, CSVFormat.DEFAULT.withHeader(rs))){
+
+
+                while (rs.next()) {
+                    csvPrinter.printRecord(rs.getInt("ID"));
+                }
+        }
+        catch(Exception e){
+
+            e.printStackTrace();
+        }
     }
 
 }

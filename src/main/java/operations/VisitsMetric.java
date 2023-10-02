@@ -11,7 +11,7 @@ import java.util.List;
 public class VisitsMetric extends Wrappers {
     private final String sourceVisitsFile = "VISITS/VisitsSourceData.csv";
     private final String finalVisitsFile = "VISITS/VisitsFinalData.csv";
-    private final String querySource = "PIPELINE_CLEAN.BULLHORN_CLEAN.NOTES WHERE ACTION = 'Client Visit' AND IS_DELETED = FALSE ORDER BY 1";
+    private final String querySource = "PIPELINE_CLEAN.BULLHORN.NOTES WHERE ACTION = 'Client Visit' AND IS_DELETED = FALSE ORDER BY 1";
     private final String queryFinal = "METRICS_PIPELINE_UAT.METRICS_UAT.CLIENT_VISITS ORDER BY 1";
     List<String> visitsColumns = new ArrayList<>();
 
@@ -25,7 +25,7 @@ public class VisitsMetric extends Wrappers {
        visitsColumns.add("ACTION");
        visitsColumns.add("IS_DELETED");
 
-        extractFile(sourceVisitsFile, visitsColumns, querySource);
+        extractFile(sourceVisitsFile, visitsColumns, querySource, "SELECT DISTINCT ");
     }
 
     public void extractFinalFile(){
@@ -34,7 +34,7 @@ public class VisitsMetric extends Wrappers {
         visitsColumns.add("ACTION");
         visitsColumns.add("IS_DELETED");
 
-        extractFile(finalVisitsFile, visitsColumns, queryFinal);
+        extractFile(finalVisitsFile, visitsColumns, queryFinal, "SELECT DISTINCT ");
     }
 
     public boolean comparingVisitsFiles_Successful(){

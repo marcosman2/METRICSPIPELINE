@@ -11,7 +11,7 @@ import java.util.List;
 public class DealsMetric extends Wrappers {
     private final String sourceDealsFile = "DEALS/DealsSourceData.csv";
     private final String finalDealsFile = "DEALS/DealsFinalData.csv";
-    private final String querySource = "PIPELINE_CLEAN.BULLHORN_CLEAN.PLACEMENTS WHERE (is_count_as_a_deal is null or is_count_as_a_deal = 'Yes')\n" +
+    private final String querySource = "PIPELINE_CLEAN.BULLHORN.PLACEMENTS WHERE (is_count_as_a_deal is null or is_count_as_a_deal = 'Yes')\n" +
             "AND status in ('Submitted', 'AM Submitted', 'Onboarding', 'Approved', 'Approved-HSG', 'PERM', 'Terminated', 'Completed') ORDER BY 1";
     private final String queryFinal = "METRICS_PIPELINE_UAT.METRICS_UAT.DEALS ORDER BY 1";
     List<String> dealsColumns = new ArrayList<>();
@@ -24,18 +24,18 @@ public class DealsMetric extends Wrappers {
 
        dealsColumns.add("ID");
        dealsColumns.add("IS_COUNT_AS_A_DEAL");
-       dealsColumns.add("STATUS");
+       //dealsColumns.add("STATUS");
 
-        extractFile(sourceDealsFile, dealsColumns, querySource);
+        extractFile(sourceDealsFile, dealsColumns, querySource, "SELECT ");
     }
 
     public void extractFinalFile(){
 
         dealsColumns.add("ID");
         dealsColumns.add("IS_COUNT_AS_A_DEAL");
-        dealsColumns.add("STATUS");
+        //dealsColumns.add("STATUS");
 
-        extractFile(finalDealsFile, dealsColumns, queryFinal);
+        extractFile(finalDealsFile, dealsColumns, queryFinal, "SELECT ");
     }
 
     public boolean comparingDealsFiles_Successful(){
