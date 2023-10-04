@@ -101,7 +101,7 @@ public class Wrappers {
                 }
             }
 
-            //return reader1.readLine() == null && reader2.readLine() == null;
+            return reader1.readLine() == null && reader2.readLine() == null;
 
         } catch (Exception e) {
             e.printStackTrace();

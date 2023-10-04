@@ -15,6 +15,7 @@
             <class name = "StartsTestCases"/>
             <class name = "VisitsTestCases"/>
             <class name = "YellowZoneTestCases"/>
+            <class name = "PipelineTestCases"/>
         </classes>
     </test>
 </suite>
