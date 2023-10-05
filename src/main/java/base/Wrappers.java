@@ -101,6 +101,14 @@ public class Wrappers {
                 }
             }
 
+            if(areEq){
+                TestReport.logPass("Source and Final files match");
+            }
+            else{
+
+                TestReport.logFail("Source and Final files do not match");
+            }
+
             return reader1.readLine() == null && reader2.readLine() == null;
 
         } catch (Exception e) {
@@ -143,6 +151,15 @@ public class Wrappers {
                 areColumns = false;
                 System.out.println("Column not present: "+column);
             }
+        }
+
+        if(areColumns){
+
+            TestReport.logPass("All expected columns are included on Metrics table");
+        }
+        else{
+
+            TestReport.logFail("Not all expected column are included on Metrics table");
         }
 
         return areColumns;
