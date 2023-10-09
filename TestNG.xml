@@ -3,7 +3,7 @@
         <classes>
             <class name = "AMContactDBAsTestCases"/>
             <class name = "AMContactReqTestCases"/>
-            <!--<class name = "ClientSubmissionTestCases"/>-->
+            <class name = "ClientSubmissionTestCases"/>
             <class name = "DealsTestCases"/>
             <class name = "FinishesTestCases"/>
             <class name = "InHousesTestCases"/>
@@ -11,7 +11,7 @@
             <class name = "JobSubmissionTestCases"/>
             <class name = "LeadTestCases"/>
             <class name = "RecruiterCandidateDBAsTestCases"/>
-            <!--<class name = "SendoutsTestCases"/>-->
+            <class name = "SendoutsTestCases"/>
             <class name = "StartsTestCases"/>
             <class name = "VisitsTestCases"/>
             <class name = "YellowZoneTestCases"/>
