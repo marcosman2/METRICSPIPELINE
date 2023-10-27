@@ -1,14 +1,16 @@
 package base;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
+import java.io.*;
 import java.sql.*;
-import java.util.Arrays;
-import java.util.List;
+import java.text.DecimalFormat;
+import java.util.*;
+
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.opencsv.CSVWriter;
 import org.apache.commons.csv.CSVFormat;
+import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVPrinter;
+import org.apache.commons.csv.CSVRecord;
 
 public class Wrappers {
 
@@ -24,6 +26,9 @@ public class Wrappers {
 
     boolean areColumns = true;
     int maxValue;
+
+    static float recordsOnSF;
+    static float recordsOnPulse;
 
     public Wrappers() throws SQLException {
     }
@@ -136,7 +141,7 @@ public class Wrappers {
 
         for (int i = 1; i <= columnCount; i++) {
             columnHeaders[i - 1] = metaData.getColumnName(i);
-            //System.out.println("Column: "+columnHeaders[i - 1]);
+            System.out.println("Column: "+columnHeaders[i - 1]);
         }
 
         return columnHeaders;
@@ -198,6 +203,124 @@ public class Wrappers {
 
             e.printStackTrace();
         }
+    }
+
+    public void convertJsonIntoCsv(String jsonFilePath, String csvFilePath) throws IOException {
+
+        ObjectMapper objectMapper = new ObjectMapper();
+
+        List<Map<String, Object>> itemization = objectMapper.readValue(new File(jsonFilePath),
+                objectMapper.getTypeFactory().constructCollectionType(List.class, Map.class));
+
+        try (CSVWriter writer = new CSVWriter(new FileWriter(csvFilePath))) {
+            // Write CSV header
+            String[] header = itemization.get(0).keySet().toArray(new String[0]);
+
+            for (int i = 0; i < header.length; i++) {
+                header[i] = header[i].toUpperCase();
+            }
+
+            writer.writeNext(header);
+
+            for (Map<String, Object> item : itemization) {
+                String[] row = new String[header.length];
+                int i = 0;
+                for (String key : header) {
+                    Object value = item.get(key.toLowerCase());
+                    row[i++] = (value != null) ? value.toString() : "";
+                }
+                writer.writeNext(row);
+            }
+        }
+
+    }
+
+    public static float countMatchingIds(String fileAPath, String fileBPath) throws IOException {
+
+        Set<String> idsInFileA = new HashSet<>();
+        Set<String> idsInFileB = new HashSet<>();
+
+        try (CSVParser parserA = new CSVParser(new FileReader(fileAPath), CSVFormat.DEFAULT.withHeader());
+             CSVParser parserB = new CSVParser(new FileReader(fileBPath), CSVFormat.DEFAULT.withHeader())) {
+
+            for (CSVRecord record : parserA) {
+                idsInFileA.add(record.get("ID"));
+            }
+
+            recordsOnSF = idsInFileA.size();
+
+            for (CSVRecord record : parserB) {
+                idsInFileB.add(record.get("ID"));
+            }
+
+            recordsOnPulse = idsInFileB.size();
+        }
+
+        //idsInFileA.retainAll(idsInFileB);
+
+        System.out.println("Number of records on SF file: "+Math.round(recordsOnSF));
+        System.out.println("Number of records on Pulse file: "+Math.round(recordsOnPulse));
+
+        DecimalFormat decimalFormat = new DecimalFormat("#.##");
+        String formattedValue;
+
+        if(recordsOnSF > recordsOnPulse){
+            idsInFileA.retainAll(idsInFileB);
+            formattedValue = decimalFormat.format((idsInFileA.size()/recordsOnSF)*100);
+        }
+        else{
+            idsInFileB.retainAll(idsInFileA);
+            formattedValue = decimalFormat.format((idsInFileB.size()/recordsOnPulse)*100);
+        }
+
+        //float accuracy = Float.parseFloat(formattedValue);
+
+        return Float.parseFloat(formattedValue);
+    }
+
+    public static Set<String> getIdsInFileANotInFileB(String fileAPath, String fileBPath) throws IOException {
+
+        Set<String> idsInFileA = new HashSet<>();
+        Set<String> idsInFileB = new HashSet<>();
+
+        try (CSVParser parserA = new CSVParser(new FileReader(fileAPath), CSVFormat.DEFAULT.withHeader());
+             CSVParser parserB = new CSVParser(new FileReader(fileBPath), CSVFormat.DEFAULT.withHeader())) {
+
+            for (CSVRecord record : parserA) {
+                idsInFileA.add(record.get("ID"));
+            }
+
+            for (CSVRecord record : parserB) {
+                idsInFileB.add(record.get("ID"));
+            }
+        }
+
+        // Calculate the difference between sets to find IDs in fileA but not in fileB
+        idsInFileA.removeAll(idsInFileB);
+
+        return idsInFileA;
+    }
+
+    public static Set<String> getIdsInFileBNotInFileA(String fileAPath, String fileBPath) throws IOException {
+
+        Set<String> idsInFileA = new HashSet<>();
+        Set<String> idsInFileB = new HashSet<>();
+
+        try (CSVParser parserA = new CSVParser(new FileReader(fileAPath), CSVFormat.DEFAULT.withHeader());
+             CSVParser parserB = new CSVParser(new FileReader(fileBPath), CSVFormat.DEFAULT.withHeader())) {
+
+            for (CSVRecord record : parserA) {
+                idsInFileA.add(record.get("ID"));
+            }
+
+            for (CSVRecord record : parserB) {
+                idsInFileB.add(record.get("ID"));
+            }
+        }
+
+        idsInFileB.removeAll(idsInFileA);
+
+        return idsInFileB;
     }
 
 }

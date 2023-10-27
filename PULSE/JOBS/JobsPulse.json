@@ -1,0 +1,1442 @@
+[
+	{
+		"brand": "Government",
+		"division": "13640f37-e5d6-47fb-8457-1658aaf09c60",
+		"employee": "0063349f-eac2-46ba-921a-a6187b0669d6",
+		"date": 20230911,
+		"label": "Graphic Software Engineer",
+		"sort": "Graphic Software Engineer",
+		"id": "212505",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212505"
+	},
+	{
+		"brand": "Government",
+		"division": "13640f37-e5d6-47fb-8457-1658aaf09c60",
+		"employee": "0063349f-eac2-46ba-921a-a6187b0669d6",
+		"date": 20230912,
+		"label": "Data Center Engineer (Infrastructure)",
+		"sort": "Data Center Engineer (Infrastructure)",
+		"id": "212581",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212581"
+	},
+	{
+		"brand": "Government",
+		"division": "13640f37-e5d6-47fb-8457-1658aaf09c60",
+		"employee": "0063349f-eac2-46ba-921a-a6187b0669d6",
+		"date": 20230912,
+		"label": "VTC Network Engineer",
+		"sort": "VTC Network Engineer",
+		"id": "212582",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212582"
+	},
+	{
+		"brand": "Government",
+		"division": "13640f37-e5d6-47fb-8457-1658aaf09c60",
+		"employee": "0063349f-eac2-46ba-921a-a6187b0669d6",
+		"date": 20230912,
+		"label": "Software Apps Installation",
+		"sort": "Software Apps Installation",
+		"id": "212583",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212583"
+	},
+	{
+		"brand": "Government",
+		"division": "13640f37-e5d6-47fb-8457-1658aaf09c60",
+		"employee": "0063349f-eac2-46ba-921a-a6187b0669d6",
+		"date": 20230912,
+		"label": "Test Engineer",
+		"sort": "Test Engineer",
+		"id": "212584",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212584"
+	},
+	{
+		"brand": "Government",
+		"division": "13640f37-e5d6-47fb-8457-1658aaf09c60",
+		"employee": "0063349f-eac2-46ba-921a-a6187b0669d6",
+		"date": 20230912,
+		"label": "Scrum Master",
+		"sort": "Scrum Master",
+		"id": "212585",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212585"
+	},
+	{
+		"brand": "Government",
+		"division": "13640f37-e5d6-47fb-8457-1658aaf09c60",
+		"employee": "0063349f-eac2-46ba-921a-a6187b0669d6",
+		"date": 20230912,
+		"label": "Project Manager",
+		"sort": "Project Manager",
+		"id": "212591",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212591"
+	},
+	{
+		"brand": "Government",
+		"division": "13640f37-e5d6-47fb-8457-1658aaf09c60",
+		"employee": "0063349f-eac2-46ba-921a-a6187b0669d6",
+		"date": 20230912,
+		"label": "Microsoft Integration Engineer",
+		"sort": "Microsoft Integration Engineer",
+		"id": "212594",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212594"
+	},
+	{
+		"brand": "Government",
+		"division": "608c2fbf-527d-4301-b40d-772cc8ad9ae3",
+		"employee": "0063349f-eac2-46ba-921a-a6187b0669d6",
+		"date": 20230912,
+		"label": "Cyber Security Analyst",
+		"sort": "Cyber Security Analyst",
+		"id": "212601",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212601"
+	},
+	{
+		"brand": "Government",
+		"division": "608c2fbf-527d-4301-b40d-772cc8ad9ae3",
+		"employee": "0063349f-eac2-46ba-921a-a6187b0669d6",
+		"date": 20230912,
+		"label": "ISSE",
+		"sort": "ISSE",
+		"id": "212612",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212612"
+	},
+	{
+		"brand": "Government",
+		"division": "608c2fbf-527d-4301-b40d-772cc8ad9ae3",
+		"employee": "0063349f-eac2-46ba-921a-a6187b0669d6",
+		"date": 20230912,
+		"label": "Cyber Software Engineer",
+		"sort": "Cyber Software Engineer",
+		"id": "212622",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212622"
+	},
+	{
+		"brand": "ERP",
+		"division": "d3998400-e6f2-4dab-8874-8ae5e065c260",
+		"employee": "04469917-55dc-4fdf-802b-0bcef5c750c0",
+		"date": 20230912,
+		"label": "WFC Data Extraction Resource",
+		"sort": "WFC Data Extraction Resource",
+		"id": "212580",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212580"
+	},
+	{
+		"brand": "HCIT",
+		"division": "65b5a58e-fed0-4f9a-9d08-f894a3fc1aea",
+		"employee": "061c61e7-9ac6-4942-886e-cf7f7b691e39",
+		"date": 20230911,
+		"label": "Epic Inpatient Hyperdrive Analyst",
+		"sort": "Epic Inpatient Hyperdrive Analyst",
+		"id": "212533",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212533"
+	},
+	{
+		"brand": "HCIT",
+		"division": "65b5a58e-fed0-4f9a-9d08-f894a3fc1aea",
+		"employee": "061c61e7-9ac6-4942-886e-cf7f7b691e39",
+		"date": 20230913,
+		"label": "Epic Inpatient ID",
+		"sort": "Epic Inpatient ID",
+		"id": "212713",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212713"
+	},
+	{
+		"brand": "HCIT",
+		"division": "65b5a58e-fed0-4f9a-9d08-f894a3fc1aea",
+		"employee": "061c61e7-9ac6-4942-886e-cf7f7b691e39",
+		"date": 20230914,
+		"label": "Epic Dual Certified Ambulatory and MyChart Consultant",
+		"sort": "Epic Dual Certified Ambulatory and MyChart Consultant",
+		"id": "212786",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212786"
+	},
+	{
+		"brand": "HCIT",
+		"division": "65b5a58e-fed0-4f9a-9d08-f894a3fc1aea",
+		"employee": "061c61e7-9ac6-4942-886e-cf7f7b691e39",
+		"date": 20230914,
+		"label": "Epic Dual Certified Healthy Planet and Ambulatory Consultant",
+		"sort": "Epic Dual Certified Healthy Planet and Ambulatory Consultant",
+		"id": "212788",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212788"
+	},
+	{
+		"brand": "ERP",
+		"division": "748a47ac-756b-4353-a9f2-8fbc59f1b9d5",
+		"employee": "09b77df7-d6ce-47c3-822b-86bdd25a937f",
+		"date": 20230913,
+		"label": "Salesforce Scrum Master",
+		"sort": "Salesforce Scrum Master",
+		"id": "212715",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212715"
+	},
+	{
+		"brand": "ERP",
+		"division": "748a47ac-756b-4353-a9f2-8fbc59f1b9d5",
+		"employee": "09b77df7-d6ce-47c3-822b-86bdd25a937f",
+		"date": 20230913,
+		"label": "Salesforce Business Analyst",
+		"sort": "Salesforce Business Analyst",
+		"id": "212718",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212718"
+	},
+	{
+		"brand": "ERP",
+		"division": "748a47ac-756b-4353-a9f2-8fbc59f1b9d5",
+		"employee": "09b77df7-d6ce-47c3-822b-86bdd25a937f",
+		"date": 20230913,
+		"label": "Salesforce QA Testers",
+		"sort": "Salesforce QA Testers",
+		"id": "212721",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212721"
+	},
+	{
+		"brand": "ERP",
+		"division": "748a47ac-756b-4353-a9f2-8fbc59f1b9d5",
+		"employee": "09b77df7-d6ce-47c3-822b-86bdd25a937f",
+		"date": 20230913,
+		"label": "Salesforce Developers",
+		"sort": "Salesforce Developers",
+		"id": "212724",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212724"
+	},
+	{
+		"brand": "ERP",
+		"division": "748a47ac-756b-4353-a9f2-8fbc59f1b9d5",
+		"employee": "09b77df7-d6ce-47c3-822b-86bdd25a937f",
+		"date": 20230913,
+		"label": "Salesforce CPQ BA",
+		"sort": "Salesforce CPQ BA",
+		"id": "212725",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212725"
+	},
+	{
+		"brand": "ERP",
+		"division": "748a47ac-756b-4353-a9f2-8fbc59f1b9d5",
+		"employee": "09b77df7-d6ce-47c3-822b-86bdd25a937f",
+		"date": 20230913,
+		"label": "CPQ Architect",
+		"sort": "CPQ Architect",
+		"id": "212726",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212726"
+	},
+	{
+		"brand": "ERP",
+		"division": "748a47ac-756b-4353-a9f2-8fbc59f1b9d5",
+		"employee": "09b77df7-d6ce-47c3-822b-86bdd25a937f",
+		"date": 20230913,
+		"label": "Salesforce Business Analyst",
+		"sort": "Salesforce Business Analyst",
+		"id": "212774",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212774"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "026ad33f-6dcb-4b1c-bd32-47b0eb0ff9ca",
+		"employee": "0cad53bb-60cb-4ca2-92f4-023b371bfcc5",
+		"date": 20230911,
+		"label": "Senior Medical Affairs Training Specialist",
+		"sort": "Senior Medical Affairs Training Specialist",
+		"id": "212524",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212524"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "da7b37e9-c04c-4a31-a2a8-68816e30d45b",
+		"employee": "1012a56a-7886-45dc-8b71-19335bdeeb5f",
+		"date": 20230911,
+		"label": "Senior QAV Specialist",
+		"sort": "Senior QAV Specialist",
+		"id": "212515",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212515"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "da7b37e9-c04c-4a31-a2a8-68816e30d45b",
+		"employee": "1012a56a-7886-45dc-8b71-19335bdeeb5f",
+		"date": 20230911,
+		"label": "QAV Specialist",
+		"sort": "QAV Specialist",
+		"id": "212516",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212516"
+	},
+	{
+		"brand": "HCIT",
+		"division": "cc7febc3-0f1f-4687-b76b-4818ed83e6c3",
+		"employee": "101b47f6-15a9-4e44-b1d4-297a016b34ac",
+		"date": 20230911,
+		"label": "Reporting Project Manager",
+		"sort": "Reporting Project Manager",
+		"id": "212510",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212510"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "da7b37e9-c04c-4a31-a2a8-68816e30d45b",
+		"employee": "10243b04-487a-462c-a8ba-4c0492dbbf67",
+		"date": 20230912,
+		"label": "QC Manager",
+		"sort": "QC Manager",
+		"id": "212633",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212633"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "da7b37e9-c04c-4a31-a2a8-68816e30d45b",
+		"employee": "10243b04-487a-462c-a8ba-4c0492dbbf67",
+		"date": 20230912,
+		"label": "Batch Record Review",
+		"sort": "Batch Record Review",
+		"id": "212637",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212637"
+	},
+	{
+		"brand": "Data Information Security & Sciences",
+		"division": "f4e9c17e-a9be-4282-84d9-0ff0317bde99",
+		"employee": "12c9a870-4703-4ad9-86ad-f5d6dafcf934",
+		"date": 20230913,
+		"label": "CyberArk Engineer",
+		"sort": "CyberArk Engineer",
+		"id": "212719",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212719"
+	},
+	{
+		"brand": "Data Information Security & Sciences",
+		"division": "f4e9c17e-a9be-4282-84d9-0ff0317bde99",
+		"employee": "12c9a870-4703-4ad9-86ad-f5d6dafcf934",
+		"date": 20230914,
+		"label": "Associate Director of Product Security",
+		"sort": "Associate Director of Product Security",
+		"id": "212806",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212806"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "026ad33f-6dcb-4b1c-bd32-47b0eb0ff9ca",
+		"employee": "1a5a8f23-a33e-492e-9ef2-60dae127adc5",
+		"date": 20230913,
+		"label": "Pharmacovigilance Consultant",
+		"sort": "Pharmacovigilance Consultant",
+		"id": "212766",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212766"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "026ad33f-6dcb-4b1c-bd32-47b0eb0ff9ca",
+		"employee": "1a5a8f23-a33e-492e-9ef2-60dae127adc5",
+		"date": 20230914,
+		"label": "Clinical Operations Consultant",
+		"sort": "Clinical Operations Consultant",
+		"id": "212851",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212851"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "9603909a-57a4-4de5-aa5b-2e6699e26c2e",
+		"employee": "1db9c362-78f2-42ce-942e-7b7f2326fd58",
+		"date": 20230912,
+		"label": "Sr. Medical Device Systems Engineer",
+		"sort": "Sr. Medical Device Systems Engineer",
+		"id": "212568",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212568"
+	},
+	{
+		"brand": "ERP",
+		"division": "368bd3e8-b83c-4590-9b7b-d560af7c841c",
+		"employee": "212ce78a-6938-4973-9418-d3d9c3b3fa9f",
+		"date": 20230911,
+		"label": "Workday Core HCM TechnoFunctional Expert",
+		"sort": "Workday Core HCM TechnoFunctional Expert",
+		"id": "212529",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212529"
+	},
+	{
+		"brand": "ERP",
+		"division": "368bd3e8-b83c-4590-9b7b-d560af7c841c",
+		"employee": "212ce78a-6938-4973-9418-d3d9c3b3fa9f",
+		"date": 20230915,
+		"label": "Workday Time Tracking & Absence Expert",
+		"sort": "Workday Time Tracking & Absence Expert",
+		"id": "212918",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212918"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "aa240704-e241-48ee-b258-700f97fa2d46",
+		"employee": "21a29c87-a18a-4ad9-abd2-187e88506d59",
+		"date": 20230915,
+		"label": "Medical Writing - Manuscripts/Abstracts",
+		"sort": "Medical Writing - Manuscripts/Abstracts",
+		"id": "212912",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212912"
+	},
+	{
+		"brand": "ERP",
+		"division": "255dcae6-e360-4e33-b938-68e191ccc794",
+		"employee": "26a2b195-faa5-4b53-8886-53200f9814bf",
+		"date": 20230913,
+		"label": "Oracle Cloud Techno-Functional SCM Resource",
+		"sort": "Oracle Cloud Techno-Functional SCM Resource",
+		"id": "212748",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212748"
+	},
+	{
+		"brand": "ERP",
+		"division": "d3998400-e6f2-4dab-8874-8ae5e065c260",
+		"employee": "2b0e34ce-a02b-4803-972a-9f54c56a0d63",
+		"date": 20230911,
+		"label": "ADP Vantage Payroll Expert",
+		"sort": "ADP Vantage Payroll Expert",
+		"id": "212527",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212527"
+	},
+	{
+		"brand": "Data Information Security & Sciences",
+		"division": "f4e9c17e-a9be-4282-84d9-0ff0317bde99",
+		"employee": "311184a4-67ed-4430-bc4c-f9ddb01ac2e8",
+		"date": 20230912,
+		"label": "AWS Cloud Security Engineer",
+		"sort": "AWS Cloud Security Engineer",
+		"id": "212642",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212642"
+	},
+	{
+		"brand": "Data Information Security & Sciences",
+		"division": "f4e9c17e-a9be-4282-84d9-0ff0317bde99",
+		"employee": "311184a4-67ed-4430-bc4c-f9ddb01ac2e8",
+		"date": 20230912,
+		"label": "AWS Cloud Security Architect",
+		"sort": "AWS Cloud Security Architect",
+		"id": "212643",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212643"
+	},
+	{
+		"brand": "ERP",
+		"division": "adad53ce-a56a-46d3-8367-2a35ea8048f6",
+		"employee": "38740655-c5c7-4ea5-b197-ad205698c2e9",
+		"date": 20230912,
+		"label": "UKG Pro Sr. HRIS Lead",
+		"sort": "UKG Pro Sr. HRIS Lead",
+		"id": "212648",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212648"
+	},
+	{
+		"brand": "ERP",
+		"division": "adad53ce-a56a-46d3-8367-2a35ea8048f6",
+		"employee": "38740655-c5c7-4ea5-b197-ad205698c2e9",
+		"date": 20230915,
+		"label": "UKG Pro Tax Expert",
+		"sort": "UKG Pro Tax Expert",
+		"id": "212909",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212909"
+	},
+	{
+		"brand": "ERP",
+		"division": "748a47ac-756b-4353-a9f2-8fbc59f1b9d5",
+		"employee": "3baa98c0-0084-4e66-9723-a324d29cc33b",
+		"date": 20230912,
+		"label": "Salesforce Marketing Cloud Developer",
+		"sort": "Salesforce Marketing Cloud Developer",
+		"id": "212632",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212632"
+	},
+	{
+		"brand": "ERP",
+		"division": "748a47ac-756b-4353-a9f2-8fbc59f1b9d5",
+		"employee": "3baa98c0-0084-4e66-9723-a324d29cc33b",
+		"date": 20230913,
+		"label": "Salesforce Revenue Cloud Developer",
+		"sort": "Salesforce Revenue Cloud Developer",
+		"id": "212653",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212653"
+	},
+	{
+		"brand": "ERP",
+		"division": "748a47ac-756b-4353-a9f2-8fbc59f1b9d5",
+		"employee": "3baa98c0-0084-4e66-9723-a324d29cc33b",
+		"date": 20230913,
+		"label": "Salesforce Marketing Cloud Business Analyst Advisor",
+		"sort": "Salesforce Marketing Cloud Business Analyst Advisor",
+		"id": "212667",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212667"
+	},
+	{
+		"brand": "ERP",
+		"division": "748a47ac-756b-4353-a9f2-8fbc59f1b9d5",
+		"employee": "3baa98c0-0084-4e66-9723-a324d29cc33b",
+		"date": 20230913,
+		"label": "Tableau Trainer",
+		"sort": "Tableau Trainer",
+		"id": "212683",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212683"
+	},
+	{
+		"brand": "ERP",
+		"division": "748a47ac-756b-4353-a9f2-8fbc59f1b9d5",
+		"employee": "3baa98c0-0084-4e66-9723-a324d29cc33b",
+		"date": 20230913,
+		"label": "Data Cloud Developer",
+		"sort": "Data Cloud Developer",
+		"id": "212761",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212761"
+	},
+	{
+		"brand": "ERP",
+		"division": "748a47ac-756b-4353-a9f2-8fbc59f1b9d5",
+		"employee": "3baa98c0-0084-4e66-9723-a324d29cc33b",
+		"date": 20230915,
+		"label": "Salesforce Sales Cloud Developer Advisor",
+		"sort": "Salesforce Sales Cloud Developer Advisor",
+		"id": "212860",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212860"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "9603909a-57a4-4de5-aa5b-2e6699e26c2e",
+		"employee": "3c1c35f6-412e-4327-9a3b-3508620f29c2",
+		"date": 20230914,
+		"label": "Validation Engineer (TMV / Documentation)",
+		"sort": "Validation Engineer (TMV / Documentation)",
+		"id": "212817",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212817"
+	},
+	{
+		"brand": "ERP",
+		"division": "fe815658-e659-4a69-8ac9-86815e6b4cce",
+		"employee": "44242234-6ecf-4cd7-a42f-e0f7d4c0efb8",
+		"date": 20230915,
+		"label": "Workday Financials Functional Accounting Expert",
+		"sort": "Workday Financials Functional Accounting Expert",
+		"id": "212944",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212944"
+	},
+	{
+		"brand": "ERP",
+		"division": "255dcae6-e360-4e33-b938-68e191ccc794",
+		"employee": "4579e9b1-d31b-4312-a347-4abc2f97eedd",
+		"date": 20230915,
+		"label": "Techno-Functional Oracle Cloud HCM Resource",
+		"sort": "Techno-Functional Oracle Cloud HCM Resource",
+		"id": "212893",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212893"
+	},
+	{
+		"brand": "HCIT",
+		"division": "65b5a58e-fed0-4f9a-9d08-f894a3fc1aea",
+		"employee": "46b70497-9e86-423f-90ab-fa2b43920aa9",
+		"date": 20230915,
+		"label": "Epic Ambulatory - Urgent Care",
+		"sort": "Epic Ambulatory - Urgent Care",
+		"id": "212890",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212890"
+	},
+	{
+		"brand": "ERP",
+		"division": "368bd3e8-b83c-4590-9b7b-d560af7c841c",
+		"employee": "48b956a7-98ae-45fc-bc78-d580e13c952e",
+		"date": 20230911,
+		"label": "Workday Integrations Expert",
+		"sort": "Workday Integrations Expert",
+		"id": "212519",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212519"
+	},
+	{
+		"brand": "ERP",
+		"division": "368bd3e8-b83c-4590-9b7b-d560af7c841c",
+		"employee": "48b956a7-98ae-45fc-bc78-d580e13c952e",
+		"date": 20230912,
+		"label": "Workday Project Manager",
+		"sort": "Workday Project Manager",
+		"id": "212650",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212650"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "7966f74c-09a7-4190-85b5-b6b1e4e8731b",
+		"employee": "598f4828-8e30-490b-bc49-d93f2a0a52be",
+		"date": 20230911,
+		"label": "Process Instrumentation/Calibration Technician",
+		"sort": "Process Instrumentation/Calibration Technician",
+		"id": "212541",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212541"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "da7b37e9-c04c-4a31-a2a8-68816e30d45b",
+		"employee": "59b8f83d-da3b-4323-947a-e35feef22bff",
+		"date": 20230911,
+		"label": "EMPQ Tech",
+		"sort": "EMPQ Tech",
+		"id": "212539",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212539"
+	},
+	{
+		"brand": "ERP",
+		"division": "b9e85d11-75ce-4591-804b-42e5ae465cd6",
+		"employee": "5c3b4ff1-b3e2-4898-8b48-934d92171d09",
+		"date": 20230913,
+		"label": "SAP FICO Architect w Fiori",
+		"sort": "SAP FICO Architect w Fiori",
+		"id": "212698",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212698"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "befaddd7-800f-431d-aa63-a4de4533037b",
+		"employee": "6c9ec538-428f-4492-9f34-46ddb9e2196d",
+		"date": 20230914,
+		"label": "Quality Compliance Engineer",
+		"sort": "Quality Compliance Engineer",
+		"id": "212827",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212827"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "da7b37e9-c04c-4a31-a2a8-68816e30d45b",
+		"employee": "6cc286e9-a59d-42a4-88c6-155e55194d1f",
+		"date": 20230913,
+		"label": "QA Doc Control Specialist",
+		"sort": "QA Doc Control Specialist",
+		"id": "212709",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212709"
+	},
+	{
+		"brand": "Data Information Security & Sciences",
+		"division": "f4e9c17e-a9be-4282-84d9-0ff0317bde99",
+		"employee": "6f5afcb0-30c4-498c-98ef-95d92f284944",
+		"date": 20230912,
+		"label": "Product Security Engineer",
+		"sort": "Product Security Engineer",
+		"id": "212627",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212627"
+	},
+	{
+		"brand": "Data Information Security & Sciences",
+		"division": "f4e9c17e-a9be-4282-84d9-0ff0317bde99",
+		"employee": "6f5afcb0-30c4-498c-98ef-95d92f284944",
+		"date": 20230913,
+		"label": "Sr. Blue Team Analyst",
+		"sort": "Sr. Blue Team Analyst",
+		"id": "212768",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212768"
+	},
+	{
+		"brand": "Data Information Security & Sciences",
+		"division": "f4e9c17e-a9be-4282-84d9-0ff0317bde99",
+		"employee": "6f5afcb0-30c4-498c-98ef-95d92f284944",
+		"date": 20230913,
+		"label": "Sr. Cyber Threat Intelligence Analyst",
+		"sort": "Sr. Cyber Threat Intelligence Analyst",
+		"id": "212769",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212769"
+	},
+	{
+		"brand": "Data Information Security & Sciences",
+		"division": "f4e9c17e-a9be-4282-84d9-0ff0317bde99",
+		"employee": "6f5afcb0-30c4-498c-98ef-95d92f284944",
+		"date": 20230913,
+		"label": "Sr. DFIR  Analyst",
+		"sort": "Sr. DFIR  Analyst",
+		"id": "212770",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212770"
+	},
+	{
+		"brand": "Data Information Security & Sciences",
+		"division": "f4e9c17e-a9be-4282-84d9-0ff0317bde99",
+		"employee": "6f5afcb0-30c4-498c-98ef-95d92f284944",
+		"date": 20230913,
+		"label": "Sr. Insider Threat Analyst",
+		"sort": "Sr. Insider Threat Analyst",
+		"id": "212773",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212773"
+	},
+	{
+		"brand": "Data Information Security & Sciences",
+		"division": "f4e9c17e-a9be-4282-84d9-0ff0317bde99",
+		"employee": "6f5afcb0-30c4-498c-98ef-95d92f284944",
+		"date": 20230915,
+		"label": "OT Backup/Acronis Architect",
+		"sort": "OT Backup/Acronis Architect",
+		"id": "212945",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212945"
+	},
+	{
+		"brand": "ERP",
+		"division": "b9e85d11-75ce-4591-804b-42e5ae465cd6",
+		"employee": "7769df5a-7e84-44e1-bf80-69d41d6aa426",
+		"date": 20230915,
+		"label": "SAP Change Manager",
+		"sort": "SAP Change Manager",
+		"id": "212943",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212943"
+	},
+	{
+		"brand": "ERP",
+		"division": "fe815658-e659-4a69-8ac9-86815e6b4cce",
+		"employee": "7793b291-8726-4697-a7e3-f3f46a7d91e4",
+		"date": 20230912,
+		"label": "Workday Financials Functional Analyst",
+		"sort": "Workday Financials Functional Analyst",
+		"id": "212649",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212649"
+	},
+	{
+		"brand": "ERP",
+		"division": "fe815658-e659-4a69-8ac9-86815e6b4cce",
+		"employee": "7793b291-8726-4697-a7e3-f3f46a7d91e4",
+		"date": 20230913,
+		"label": "Adaptive Planning Architect (Pentaho Integrations)",
+		"sort": "Adaptive Planning Architect (Pentaho Integrations)",
+		"id": "212744",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212744"
+	},
+	{
+		"brand": "ERP",
+		"division": "fe815658-e659-4a69-8ac9-86815e6b4cce",
+		"employee": "7793b291-8726-4697-a7e3-f3f46a7d91e4",
+		"date": 20230914,
+		"label": "Workday Financials & SCM Analyst",
+		"sort": "Workday Financials & SCM Analyst",
+		"id": "212855",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212855"
+	},
+	{
+		"brand": "HCIT",
+		"division": "65b5a58e-fed0-4f9a-9d08-f894a3fc1aea",
+		"employee": "797f9892-1899-4e10-ad52-d700308b697d",
+		"date": 20230913,
+		"label": "Epic Cogito Project Manager",
+		"sort": "Epic Cogito Project Manager",
+		"id": "212686",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212686"
+	},
+	{
+		"brand": "Data Information Security & Sciences",
+		"division": "9595780b-e4d0-408b-a458-cd131aca2808",
+		"employee": "7d3a1aa4-f2be-4dff-85b3-2cdde777359d",
+		"date": 20230913,
+		"label": "Data Privacy Paralegal",
+		"sort": "Data Privacy Paralegal",
+		"id": "212743",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212743"
+	},
+	{
+		"brand": "ERP",
+		"division": "748a47ac-756b-4353-a9f2-8fbc59f1b9d5",
+		"employee": "833a6729-1732-4dd1-b546-b423f598de40",
+		"date": 20230912,
+		"label": "Salesforce eCommerce Solution Architect",
+		"sort": "Salesforce eCommerce Solution Architect",
+		"id": "212609",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212609"
+	},
+	{
+		"brand": "ERP",
+		"division": "748a47ac-756b-4353-a9f2-8fbc59f1b9d5",
+		"employee": "833a6729-1732-4dd1-b546-b423f598de40",
+		"date": 20230917,
+		"label": "Salesforce DigitalRoute Developer",
+		"sort": "Salesforce DigitalRoute Developer",
+		"id": "212970",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212970"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "99694809-d109-4daf-be1c-78919c76487c",
+		"employee": "83c47c81-dad0-470f-94c5-5f381cb65b80",
+		"date": 20230914,
+		"label": "US Regulatory Affairs Consultant",
+		"sort": "US Regulatory Affairs Consultant",
+		"id": "212821",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212821"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "99694809-d109-4daf-be1c-78919c76487c",
+		"employee": "83c47c81-dad0-470f-94c5-5f381cb65b80",
+		"date": 20230915,
+		"label": "Regulatory Affairs Labeling Specialist",
+		"sort": "Regulatory Affairs Labeling Specialist",
+		"id": "212916",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212916"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "aa240704-e241-48ee-b258-700f97fa2d46",
+		"employee": "840e50ec-8cfb-48f1-9308-0555a1ce6a8d",
+		"date": 20230911,
+		"label": "Medical Writer",
+		"sort": "Medical Writer",
+		"id": "212509",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212509"
+	},
+	{
+		"brand": "HCIT",
+		"division": "cc7febc3-0f1f-4687-b76b-4818ed83e6c3",
+		"employee": "87511bbd-820b-477b-ae5f-b61e8b5ff273",
+		"date": 20230911,
+		"label": "Resource Analyst – II - Oracle / Cerner Operations - KC Based",
+		"sort": "Resource Analyst – II - Oracle / Cerner Operations - KC Based",
+		"id": "212507",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212507"
+	},
+	{
+		"brand": "HCIT",
+		"division": "cc7febc3-0f1f-4687-b76b-4818ed83e6c3",
+		"employee": "87511bbd-820b-477b-ae5f-b61e8b5ff273",
+		"date": 20230911,
+		"label": "Cerner Oncology Pharmacist Consultant",
+		"sort": "Cerner Oncology Pharmacist Consultant",
+		"id": "212514",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212514"
+	},
+	{
+		"brand": "HCIT",
+		"division": "cc7febc3-0f1f-4687-b76b-4818ed83e6c3",
+		"employee": "87511bbd-820b-477b-ae5f-b61e8b5ff273",
+		"date": 20230913,
+		"label": "Acute - Sr. Solution Architect - Einstein - Remote",
+		"sort": "Acute - Sr. Solution Architect - Einstein - Remote",
+		"id": "212720",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212720"
+	},
+	{
+		"brand": "HCIT",
+		"division": "cc7febc3-0f1f-4687-b76b-4818ed83e6c3",
+		"employee": "87511bbd-820b-477b-ae5f-b61e8b5ff273",
+		"date": 20230914,
+		"label": "Consulting Services-Inpatient Nursing & Ancillaries Consultant",
+		"sort": "Consulting Services-Inpatient Nursing & Ancillaries Consultant",
+		"id": "212813",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212813"
+	},
+	{
+		"brand": "HCIT",
+		"division": "cc7febc3-0f1f-4687-b76b-4818ed83e6c3",
+		"employee": "87511bbd-820b-477b-ae5f-b61e8b5ff273",
+		"date": 20230915,
+		"label": "Scheduling - Delivery Consultant - AHSW_CA - Remote",
+		"sort": "Scheduling - Delivery Consultant - AHSW_CA - Remote",
+		"id": "212903",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212903"
+	},
+	{
+		"brand": "HCIT",
+		"division": "cc7febc3-0f1f-4687-b76b-4818ed83e6c3",
+		"employee": "87511bbd-820b-477b-ae5f-b61e8b5ff273",
+		"date": 20230915,
+		"label": "Scheduling - Delivery Consultant - AHSW_CA - Remote",
+		"sort": "Scheduling - Delivery Consultant - AHSW_CA - Remote",
+		"id": "212904",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212904"
+	},
+	{
+		"brand": "HCIT",
+		"division": "cc7febc3-0f1f-4687-b76b-4818ed83e6c3",
+		"employee": "87db08a1-c663-435e-b818-4be08b3576b1",
+		"date": 20230911,
+		"label": "Cerner Careaware/IBus Consultant - RFP 1502",
+		"sort": "Cerner Careaware/IBus Consultant - RFP 1502",
+		"id": "212535",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212535"
+	},
+	{
+		"brand": "HCIT",
+		"division": "cc7febc3-0f1f-4687-b76b-4818ed83e6c3",
+		"employee": "87db08a1-c663-435e-b818-4be08b3576b1",
+		"date": 20230914,
+		"label": "Cerner PathNet Clinical Informaticists - RFP 1503",
+		"sort": "Cerner PathNet Clinical Informaticists - RFP 1503",
+		"id": "212842",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212842"
+	},
+	{
+		"brand": "HCIT",
+		"division": "cc7febc3-0f1f-4687-b76b-4818ed83e6c3",
+		"employee": "87db08a1-c663-435e-b818-4be08b3576b1",
+		"date": 20230915,
+		"label": "Cerner CCL Consultant",
+		"sort": "Cerner CCL Consultant",
+		"id": "212958",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212958"
+	},
+	{
+		"brand": "Government",
+		"division": "f62a0bec-d8e8-423f-b511-b155704564ea",
+		"employee": "89002ede-7d46-45dd-a7a5-2883e9a966be",
+		"date": 20230914,
+		"label": "Facilities Engineer",
+		"sort": "Facilities Engineer",
+		"id": "212831",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212831"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "da7b37e9-c04c-4a31-a2a8-68816e30d45b",
+		"employee": "8a955f57-30d3-48e1-9a1c-d488c3a9a462",
+		"date": 20230912,
+		"label": "Technical Writer",
+		"sort": "Technical Writer",
+		"id": "212630",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212630"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "7966f74c-09a7-4190-85b5-b6b1e4e8731b",
+		"employee": "8a955f57-30d3-48e1-9a1c-d488c3a9a462",
+		"date": 20230914,
+		"label": "MS&T Scientist",
+		"sort": "MS&T Scientist",
+		"id": "212789",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212789"
+	},
+	{
+		"brand": "ERP",
+		"division": "748a47ac-756b-4353-a9f2-8fbc59f1b9d5",
+		"employee": "8f1a6e41-ea65-453c-9194-4cdcb00865d2",
+		"date": 20230912,
+		"label": "Salesforce Sales Cloud Admin",
+		"sort": "Salesforce Sales Cloud Admin",
+		"id": "212602",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212602"
+	},
+	{
+		"brand": "ERP",
+		"division": "748a47ac-756b-4353-a9f2-8fbc59f1b9d5",
+		"employee": "8f1a6e41-ea65-453c-9194-4cdcb00865d2",
+		"date": 20230913,
+		"label": "Salesforce QA Tester",
+		"sort": "Salesforce QA Tester",
+		"id": "212723",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212723"
+	},
+	{
+		"brand": "ERP",
+		"division": "748a47ac-756b-4353-a9f2-8fbc59f1b9d5",
+		"employee": "8f1a6e41-ea65-453c-9194-4cdcb00865d2",
+		"date": 20230913,
+		"label": "Sales Service Cloud Admin",
+		"sort": "Sales Service Cloud Admin",
+		"id": "212729",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212729"
+	},
+	{
+		"brand": "ERP",
+		"division": "748a47ac-756b-4353-a9f2-8fbc59f1b9d5",
+		"employee": "8f1a6e41-ea65-453c-9194-4cdcb00865d2",
+		"date": 20230913,
+		"label": "Marketing Cloud Developer",
+		"sort": "Marketing Cloud Developer",
+		"id": "212733",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212733"
+	},
+	{
+		"brand": "ERP",
+		"division": "748a47ac-756b-4353-a9f2-8fbc59f1b9d5",
+		"employee": "8f1a6e41-ea65-453c-9194-4cdcb00865d2",
+		"date": 20230913,
+		"label": "Salesforce Scrum Master / Admin",
+		"sort": "Salesforce Scrum Master / Admin",
+		"id": "212764",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212764"
+	},
+	{
+		"brand": "ERP",
+		"division": "748a47ac-756b-4353-a9f2-8fbc59f1b9d5",
+		"employee": "8f1a6e41-ea65-453c-9194-4cdcb00865d2",
+		"date": 20230915,
+		"label": "Salesforce QA Tester",
+		"sort": "Salesforce QA Tester",
+		"id": "212859",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212859"
+	},
+	{
+		"brand": "ERP",
+		"division": "748a47ac-756b-4353-a9f2-8fbc59f1b9d5",
+		"employee": "8f1a6e41-ea65-453c-9194-4cdcb00865d2",
+		"date": 20230915,
+		"label": "Salesforce CPQ Developer",
+		"sort": "Salesforce CPQ Developer",
+		"id": "212861",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212861"
+	},
+	{
+		"brand": "Government",
+		"division": "608c2fbf-527d-4301-b40d-772cc8ad9ae3",
+		"employee": "9619da04-ca43-4d75-aa02-5889c6452254",
+		"date": 20230911,
+		"label": "Cyber Action Officer",
+		"sort": "Cyber Action Officer",
+		"id": "212494",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212494"
+	},
+	{
+		"brand": "Government",
+		"division": "608c2fbf-527d-4301-b40d-772cc8ad9ae3",
+		"employee": "9619da04-ca43-4d75-aa02-5889c6452254",
+		"date": 20230912,
+		"label": "Cyber Security Analyst",
+		"sort": "Cyber Security Analyst",
+		"id": "212601",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212601"
+	},
+	{
+		"brand": "Government",
+		"division": "608c2fbf-527d-4301-b40d-772cc8ad9ae3",
+		"employee": "9619da04-ca43-4d75-aa02-5889c6452254",
+		"date": 20230912,
+		"label": "ISSE",
+		"sort": "ISSE",
+		"id": "212612",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212612"
+	},
+	{
+		"brand": "Government",
+		"division": "608c2fbf-527d-4301-b40d-772cc8ad9ae3",
+		"employee": "9619da04-ca43-4d75-aa02-5889c6452254",
+		"date": 20230912,
+		"label": "Cyber Software Engineer",
+		"sort": "Cyber Software Engineer",
+		"id": "212622",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212622"
+	},
+	{
+		"brand": "Government",
+		"division": "608c2fbf-527d-4301-b40d-772cc8ad9ae3",
+		"employee": "9619da04-ca43-4d75-aa02-5889c6452254",
+		"date": 20230914,
+		"label": "Data Center Analyst",
+		"sort": "Data Center Analyst",
+		"id": "212787",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212787"
+	},
+	{
+		"brand": "ERP",
+		"division": "adad53ce-a56a-46d3-8367-2a35ea8048f6",
+		"employee": "a098f2e2-03cb-43e5-8451-df007e76040b",
+		"date": 20230914,
+		"label": "UKG Pro Consultant",
+		"sort": "UKG Pro Consultant",
+		"id": "212781",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212781"
+	},
+	{
+		"brand": "ERP",
+		"division": "adad53ce-a56a-46d3-8367-2a35ea8048f6",
+		"employee": "a098f2e2-03cb-43e5-8451-df007e76040b",
+		"date": 20230915,
+		"label": "UKG/ADP Payroll Expert",
+		"sort": "UKG/ADP Payroll Expert",
+		"id": "212913",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212913"
+	},
+	{
+		"brand": "Data Information Security & Sciences",
+		"division": "f56fb046-e0fc-46ae-b9dc-b7b65302b26a",
+		"employee": "a43b439b-49ac-4973-8305-ecb671899a88",
+		"date": 20230915,
+		"label": "Sr. Azure Data Engineer",
+		"sort": "Sr. Azure Data Engineer",
+		"id": "212951",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212951"
+	},
+	{
+		"brand": "Data Information Security & Sciences",
+		"division": "f4e9c17e-a9be-4282-84d9-0ff0317bde99",
+		"employee": "a6bc7994-80a7-41da-b302-79246331751a",
+		"date": 20230914,
+		"label": "ForgeRock Architect",
+		"sort": "ForgeRock Architect",
+		"id": "212795",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212795"
+	},
+	{
+		"brand": "Data Information Security & Sciences",
+		"division": "f4e9c17e-a9be-4282-84d9-0ff0317bde99",
+		"employee": "a6bc7994-80a7-41da-b302-79246331751a",
+		"date": 20230914,
+		"label": "IT Audit Director",
+		"sort": "IT Audit Director",
+		"id": "212843",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212843"
+	},
+	{
+		"brand": "Data Information Security & Sciences",
+		"division": "f4e9c17e-a9be-4282-84d9-0ff0317bde99",
+		"employee": "a6bc7994-80a7-41da-b302-79246331751a",
+		"date": 20230915,
+		"label": "Sr Manager",
+		"sort": "Sr Manager",
+		"id": "212946",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212946"
+	},
+	{
+		"brand": "ERP",
+		"division": "d3998400-e6f2-4dab-8874-8ae5e065c260",
+		"employee": "b42bd3ff-55ac-453a-96ad-08fe448e4dfd",
+		"date": 20230912,
+		"label": "Kronos WFD Testing Analyst",
+		"sort": "Kronos WFD Testing Analyst",
+		"id": "212586",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212586"
+	},
+	{
+		"brand": "ERP",
+		"division": "d3998400-e6f2-4dab-8874-8ae5e065c260",
+		"employee": "b42bd3ff-55ac-453a-96ad-08fe448e4dfd",
+		"date": 20230913,
+		"label": "IT Business Analyst",
+		"sort": "IT Business Analyst",
+		"id": "212767",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212767"
+	},
+	{
+		"brand": "Government",
+		"division": "f62a0bec-d8e8-423f-b511-b155704564ea",
+		"employee": "b6d56860-9b12-4964-96bd-05b59d924ae1",
+		"date": 20230911,
+		"label": "Model-Based Systems Engineer",
+		"sort": "Model-Based Systems Engineer",
+		"id": "212536",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212536"
+	},
+	{
+		"brand": "Government",
+		"division": "f62a0bec-d8e8-423f-b511-b155704564ea",
+		"employee": "b6d56860-9b12-4964-96bd-05b59d924ae1",
+		"date": 20230911,
+		"label": "FPGA Design Engineer",
+		"sort": "FPGA Design Engineer",
+		"id": "212542",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212542"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "049e2688-8860-43b6-ac06-373a03febceb",
+		"employee": "ba4c0cfc-c900-4570-a2f6-575a3006e06a",
+		"date": 20230914,
+		"label": "Materials Science Engineer",
+		"sort": "Materials Science Engineer",
+		"id": "212828",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212828"
+	},
+	{
+		"brand": "HCIT",
+		"division": "cc7febc3-0f1f-4687-b76b-4818ed83e6c3",
+		"employee": "bbd81f40-8a08-41f9-9fc1-c7e44c2043ab",
+		"date": 20230913,
+		"label": "LIS Analyst",
+		"sort": "LIS Analyst",
+		"id": "212712",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212712"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "026ad33f-6dcb-4b1c-bd32-47b0eb0ff9ca",
+		"employee": "c01e25b6-b8ae-4f7d-9215-2052d71e9c85",
+		"date": 20230913,
+		"label": "Regulatory Affairs Specialist - BLA Submission",
+		"sort": "Regulatory Affairs Specialist - BLA Submission",
+		"id": "212706",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212706"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "026ad33f-6dcb-4b1c-bd32-47b0eb0ff9ca",
+		"employee": "c01e25b6-b8ae-4f7d-9215-2052d71e9c85",
+		"date": 20230915,
+		"label": "RWE Analytic Scientist",
+		"sort": "RWE Analytic Scientist",
+		"id": "212914",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212914"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "026ad33f-6dcb-4b1c-bd32-47b0eb0ff9ca",
+		"employee": "c01e25b6-b8ae-4f7d-9215-2052d71e9c85",
+		"date": 20230915,
+		"label": "HEOR and RWE Scientist",
+		"sort": "HEOR and RWE Scientist",
+		"id": "212949",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212949"
+	},
+	{
+		"brand": "ERP",
+		"division": "d3998400-e6f2-4dab-8874-8ae5e065c260",
+		"employee": "c2a52df5-7dc8-4db5-8bce-3352e1797cab",
+		"date": 20230913,
+		"label": "ADP EV5 & Global View Expert",
+		"sort": "ADP EV5 & Global View Expert",
+		"id": "212688",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212688"
+	},
+	{
+		"brand": "Government",
+		"division": "13640f37-e5d6-47fb-8457-1658aaf09c60",
+		"employee": "c7443ce4-60a3-4363-b3c1-5f099528518e",
+		"date": 20230912,
+		"label": "Product Owner",
+		"sort": "Product Owner",
+		"id": "212560",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212560"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "7966f74c-09a7-4190-85b5-b6b1e4e8731b",
+		"employee": "cdced08f-a72b-4530-b6e2-9bd0c4772f16",
+		"date": 20230912,
+		"label": "IT Business Analyst",
+		"sort": "IT Business Analyst",
+		"id": "212596",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212596"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "026ad33f-6dcb-4b1c-bd32-47b0eb0ff9ca",
+		"employee": "cf6d144d-ebe2-4bf1-83c6-a4ef0cb17dac",
+		"date": 20230912,
+		"label": "Clinical Pharmacologists",
+		"sort": "Clinical Pharmacologists",
+		"id": "212615",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212615"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "9603909a-57a4-4de5-aa5b-2e6699e26c2e",
+		"employee": "d1105d11-bac8-4fd3-93e4-bed98d6d5ffb",
+		"date": 20230913,
+		"label": "Project Manager (Facility Construction)",
+		"sort": "Project Manager (Facility Construction)",
+		"id": "212776",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212776"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "9603909a-57a4-4de5-aa5b-2e6699e26c2e",
+		"employee": "d1105d11-bac8-4fd3-93e4-bed98d6d5ffb",
+		"date": 20230913,
+		"label": "Project Manager (Facility Construction)",
+		"sort": "Project Manager (Facility Construction)",
+		"id": "212778",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212778"
+	},
+	{
+		"brand": "ERP",
+		"division": "368bd3e8-b83c-4590-9b7b-d560af7c841c",
+		"employee": "d9ac60f5-11a6-4192-8ad8-99b20fc5ca80",
+		"date": 20230914,
+		"label": "Workday HCM Expert",
+		"sort": "Workday HCM Expert",
+		"id": "212858",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212858"
+	},
+	{
+		"brand": "ERP",
+		"division": "fe815658-e659-4a69-8ac9-86815e6b4cce",
+		"employee": "d9ac60f5-11a6-4192-8ad8-99b20fc5ca80",
+		"date": 20230915,
+		"label": "Workday FIN Integrations, Reporting, & Security Architect",
+		"sort": "Workday FIN Integrations, Reporting, & Security Architect",
+		"id": "212921",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212921"
+	},
+	{
+		"brand": "ERP",
+		"division": "368bd3e8-b83c-4590-9b7b-d560af7c841c",
+		"employee": "d9ac60f5-11a6-4192-8ad8-99b20fc5ca80",
+		"date": 20230915,
+		"label": "Workday Comp & Adv Comp Architect",
+		"sort": "Workday Comp & Adv Comp Architect",
+		"id": "212964",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212964"
+	},
+	{
+		"brand": "ERP",
+		"division": "b9e85d11-75ce-4591-804b-42e5ae465cd6",
+		"employee": "db79f47d-8b2d-4bdd-8562-3876ed9f46a7",
+		"date": 20230914,
+		"label": "SAP Object Oriented Programming (OOPS) ABAP",
+		"sort": "SAP Object Oriented Programming (OOPS) ABAP",
+		"id": "212783",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212783"
+	},
+	{
+		"brand": "ERP",
+		"division": "b9e85d11-75ce-4591-804b-42e5ae465cd6",
+		"employee": "db79f47d-8b2d-4bdd-8562-3876ed9f46a7",
+		"date": 20230914,
+		"label": "SAP S4 Hana EWM Consultant",
+		"sort": "SAP S4 Hana EWM Consultant",
+		"id": "212857",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212857"
+	},
+	{
+		"brand": "ERP",
+		"division": "b9e85d11-75ce-4591-804b-42e5ae465cd6",
+		"employee": "db79f47d-8b2d-4bdd-8562-3876ed9f46a7",
+		"date": 20230915,
+		"label": "SAP Transportation Management (TM) Consultant",
+		"sort": "SAP Transportation Management (TM) Consultant",
+		"id": "212956",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212956"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "aa240704-e241-48ee-b258-700f97fa2d46",
+		"employee": "df3f235e-6ce5-45d4-a76f-42d2e62f4c73",
+		"date": 20230912,
+		"label": "Sr. Clinical Research Associate",
+		"sort": "Sr. Clinical Research Associate",
+		"id": "212600",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212600"
+	},
+	{
+		"brand": "ERP",
+		"division": "a54b0526-52ba-4ad5-b644-3bda3cb7357a",
+		"employee": "ec327e19-273a-4130-9932-cc996ddb77ae",
+		"date": 20230912,
+		"label": "Infor Functional Data analyst - Birst",
+		"sort": "Infor Functional Data analyst - Birst",
+		"id": "212576",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212576"
+	},
+	{
+		"brand": "ERP",
+		"division": "d3998400-e6f2-4dab-8874-8ae5e065c260",
+		"employee": "edf5c05c-6baa-4a5a-a6bd-9319548ada5e",
+		"date": 20230911,
+		"label": "Kronos WFD Functional Analyst",
+		"sort": "Kronos WFD Functional Analyst",
+		"id": "212534",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212534"
+	},
+	{
+		"brand": "ERP",
+		"division": "d3998400-e6f2-4dab-8874-8ae5e065c260",
+		"employee": "edf5c05c-6baa-4a5a-a6bd-9319548ada5e",
+		"date": 20230913,
+		"label": "Kronos WFD Testers",
+		"sort": "Kronos WFD Testers",
+		"id": "212737",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212737"
+	},
+	{
+		"brand": "ERP",
+		"division": "368bd3e8-b83c-4590-9b7b-d560af7c841c",
+		"employee": "f1e0f8ba-74c7-4a32-b77d-036d843c0212",
+		"date": 20230911,
+		"label": "ServiceNow Scrum Master",
+		"sort": "ServiceNow Scrum Master",
+		"id": "212517",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212517"
+	},
+	{
+		"brand": "ERP",
+		"division": "368bd3e8-b83c-4590-9b7b-d560af7c841c",
+		"employee": "f1e0f8ba-74c7-4a32-b77d-036d843c0212",
+		"date": 20230911,
+		"label": "Workday Payroll, Absence & Time Expert",
+		"sort": "Workday Payroll, Absence & Time Expert",
+		"id": "212549",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212549"
+	},
+	{
+		"brand": "ERP",
+		"division": "255dcae6-e360-4e33-b938-68e191ccc794",
+		"employee": "f1e0f8ba-74c7-4a32-b77d-036d843c0212",
+		"date": 20230912,
+		"label": "Anaplan Functional Administrator",
+		"sort": "Anaplan Functional Administrator",
+		"id": "212620",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212620"
+	},
+	{
+		"brand": "ERP",
+		"division": "748a47ac-756b-4353-a9f2-8fbc59f1b9d5",
+		"employee": "f1e0f8ba-74c7-4a32-b77d-036d843c0212",
+		"date": 20230913,
+		"label": "Business Analyst",
+		"sort": "Business Analyst",
+		"id": "212670",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212670"
+	},
+	{
+		"brand": "ERP",
+		"division": "748a47ac-756b-4353-a9f2-8fbc59f1b9d5",
+		"employee": "f1e0f8ba-74c7-4a32-b77d-036d843c0212",
+		"date": 20230913,
+		"label": "Sr. Salesforce CPQ Developer",
+		"sort": "Sr. Salesforce CPQ Developer",
+		"id": "212672",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212672"
+	},
+	{
+		"brand": "ERP",
+		"division": "748a47ac-756b-4353-a9f2-8fbc59f1b9d5",
+		"employee": "f1e0f8ba-74c7-4a32-b77d-036d843c0212",
+		"date": 20230913,
+		"label": "Sr. Salesforce Experience Cloud Developer",
+		"sort": "Sr. Salesforce Experience Cloud Developer",
+		"id": "212700",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212700"
+	},
+	{
+		"brand": "ERP",
+		"division": "748a47ac-756b-4353-a9f2-8fbc59f1b9d5",
+		"employee": "f1e0f8ba-74c7-4a32-b77d-036d843c0212",
+		"date": 20230913,
+		"label": "Salesforce Marketing Cloud Administrator \u00A0",
+		"sort": "Salesforce Marketing Cloud Administrator \u00A0",
+		"id": "212703",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212703"
+	},
+	{
+		"brand": "ERP",
+		"division": "748a47ac-756b-4353-a9f2-8fbc59f1b9d5",
+		"employee": "f1e0f8ba-74c7-4a32-b77d-036d843c0212",
+		"date": 20230915,
+		"label": "Salesforce Sales Cloud Architect",
+		"sort": "Salesforce Sales Cloud Architect",
+		"id": "212891",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212891"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "9603909a-57a4-4de5-aa5b-2e6699e26c2e",
+		"employee": "f1e922e8-600d-4807-be76-6c34b8b90d47",
+		"date": 20230915,
+		"label": "Software Validation Engineer",
+		"sort": "Software Validation Engineer",
+		"id": "212952",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212952"
+	},
+	{
+		"brand": "ERP",
+		"division": "368bd3e8-b83c-4590-9b7b-d560af7c841c",
+		"employee": "fa00c661-b1a9-49ad-981d-08fd5aff2d20",
+		"date": 20230911,
+		"label": "Interim HRIS Manager",
+		"sort": "Interim HRIS Manager",
+		"id": "212520",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212520"
+	},
+	{
+		"brand": "ERP",
+		"division": "368bd3e8-b83c-4590-9b7b-d560af7c841c",
+		"employee": "fa00c661-b1a9-49ad-981d-08fd5aff2d20",
+		"date": 20230911,
+		"label": "Workday Absence Expert",
+		"sort": "Workday Absence Expert",
+		"id": "212552",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212552"
+	},
+	{
+		"brand": "ERP",
+		"division": "368bd3e8-b83c-4590-9b7b-d560af7c841c",
+		"employee": "fa00c661-b1a9-49ad-981d-08fd5aff2d20",
+		"date": 20230914,
+		"label": "Workday Payroll Testers",
+		"sort": "Workday Payroll Testers",
+		"id": "212803",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=JobOrder&id=212803"
+	}
+]

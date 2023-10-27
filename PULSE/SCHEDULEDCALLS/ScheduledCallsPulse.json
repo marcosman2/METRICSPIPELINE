@@ -1,0 +1,402 @@
+[
+	{
+		"brand": "Government",
+		"division": "13640f37-e5d6-47fb-8457-1658aaf09c60",
+		"employee": "12d542b3-10d8-48f5-8e61-3a304d554df0",
+		"date": 20230911,
+		"label": "Michael Morris",
+		"sort": "Morris",
+		"id": "5896847",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5896847"
+	},
+	{
+		"brand": "Government",
+		"division": "13640f37-e5d6-47fb-8457-1658aaf09c60",
+		"employee": "12d542b3-10d8-48f5-8e61-3a304d554df0",
+		"date": 20230912,
+		"label": "Sean Jahla",
+		"sort": "Jahla",
+		"id": "5684864",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5684864"
+	},
+	{
+		"brand": "Government",
+		"division": "13640f37-e5d6-47fb-8457-1658aaf09c60",
+		"employee": "12d542b3-10d8-48f5-8e61-3a304d554df0",
+		"date": 20230912,
+		"label": "Adrian Bailey",
+		"sort": "Bailey",
+		"id": "5966076",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5966076"
+	},
+	{
+		"brand": "Government",
+		"division": "13640f37-e5d6-47fb-8457-1658aaf09c60",
+		"employee": "12d542b3-10d8-48f5-8e61-3a304d554df0",
+		"date": 20230913,
+		"label": "Jordyn Lumpkin",
+		"sort": "Lumpkin",
+		"id": "5966741",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5966741"
+	},
+	{
+		"brand": "Government",
+		"division": "f62a0bec-d8e8-423f-b511-b155704564ea",
+		"employee": "1994bb99-0344-433b-8f12-487a6a885129",
+		"date": 20230912,
+		"label": "James Watson",
+		"sort": "Watson",
+		"id": "5965893",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5965893"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "7966f74c-09a7-4190-85b5-b6b1e4e8731b",
+		"employee": "1994bb99-0344-433b-8f12-487a6a885129",
+		"date": 20230913,
+		"label": "Samir Singh",
+		"sort": "Singh",
+		"id": "5171463",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5171463"
+	},
+	{
+		"brand": "Government",
+		"division": "608c2fbf-527d-4301-b40d-772cc8ad9ae3",
+		"employee": "46fc33e2-db14-4508-a307-ab36851f9802",
+		"date": 20230912,
+		"label": "Brayland Stiggers",
+		"sort": "Stiggers",
+		"id": "5965888",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5965888"
+	},
+	{
+		"brand": "Government",
+		"division": "608c2fbf-527d-4301-b40d-772cc8ad9ae3",
+		"employee": "46fc33e2-db14-4508-a307-ab36851f9802",
+		"date": 20230914,
+		"label": "John Robinson-Bijou",
+		"sort": "Robinson-Bijou",
+		"id": "5967300",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5967300"
+	},
+	{
+		"brand": "Government",
+		"division": "608c2fbf-527d-4301-b40d-772cc8ad9ae3",
+		"employee": "86ce494b-a50c-41b2-a84d-b950b7fb5836",
+		"date": 20230912,
+		"label": "Eric Burnett",
+		"sort": "Burnett",
+		"id": "5965722",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5965722"
+	},
+	{
+		"brand": "Government",
+		"division": "608c2fbf-527d-4301-b40d-772cc8ad9ae3",
+		"employee": "86ce494b-a50c-41b2-a84d-b950b7fb5836",
+		"date": 20230912,
+		"label": "Nathalie Steadman ",
+		"sort": "Steadman ",
+		"id": "5966057",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5966057"
+	},
+	{
+		"brand": "Government",
+		"division": "608c2fbf-527d-4301-b40d-772cc8ad9ae3",
+		"employee": "86ce494b-a50c-41b2-a84d-b950b7fb5836",
+		"date": 20230913,
+		"label": "Arielle Harris",
+		"sort": "Harris",
+		"id": "5882987",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5882987"
+	},
+	{
+		"brand": "Government",
+		"division": "f62a0bec-d8e8-423f-b511-b155704564ea",
+		"employee": "90f0becb-ace7-4812-a7d8-301ab37adeb3",
+		"date": 20230912,
+		"label": "Michael Merson",
+		"sort": "Merson",
+		"id": "5965546",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5965546"
+	},
+	{
+		"brand": "Government",
+		"division": "f62a0bec-d8e8-423f-b511-b155704564ea",
+		"employee": "90f0becb-ace7-4812-a7d8-301ab37adeb3",
+		"date": 20230915,
+		"label": "Seth Kiefer",
+		"sort": "Kiefer",
+		"id": "5967274",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5967274"
+	},
+	{
+		"brand": "Government",
+		"division": "13640f37-e5d6-47fb-8457-1658aaf09c60",
+		"employee": "9d9772b6-a1a7-45c4-927d-1e4e72725531",
+		"date": 20230911,
+		"label": "Steve Dorvil",
+		"sort": "Dorvil",
+		"id": "5965506",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5965506"
+	},
+	{
+		"brand": "Government",
+		"division": "13640f37-e5d6-47fb-8457-1658aaf09c60",
+		"employee": "9d9772b6-a1a7-45c4-927d-1e4e72725531",
+		"date": 20230912,
+		"label": "Derrick Stevens",
+		"sort": "Stevens",
+		"id": "5653205",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5653205"
+	},
+	{
+		"brand": "Government",
+		"division": "13640f37-e5d6-47fb-8457-1658aaf09c60",
+		"employee": "9d9772b6-a1a7-45c4-927d-1e4e72725531",
+		"date": 20230913,
+		"label": "Matthew Salazar",
+		"sort": "Salazar",
+		"id": "5966449",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5966449"
+	},
+	{
+		"brand": "Government",
+		"division": "608c2fbf-527d-4301-b40d-772cc8ad9ae3",
+		"employee": "b57e34a3-7672-4972-8467-abd19cd1bfc0",
+		"date": 20230911,
+		"label": "Khadra Sheikh",
+		"sort": "Sheikh",
+		"id": "5965627",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5965627"
+	},
+	{
+		"brand": "Government",
+		"division": "608c2fbf-527d-4301-b40d-772cc8ad9ae3",
+		"employee": "b57e34a3-7672-4972-8467-abd19cd1bfc0",
+		"date": 20230911,
+		"label": "Robert Fitzwater",
+		"sort": "Fitzwater",
+		"id": "5965670",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5965670"
+	},
+	{
+		"brand": "Government",
+		"division": "608c2fbf-527d-4301-b40d-772cc8ad9ae3",
+		"employee": "b57e34a3-7672-4972-8467-abd19cd1bfc0",
+		"date": 20230911,
+		"label": "Mathew Lauer",
+		"sort": "Lauer",
+		"id": "5965758",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5965758"
+	},
+	{
+		"brand": "Government",
+		"division": "608c2fbf-527d-4301-b40d-772cc8ad9ae3",
+		"employee": "b57e34a3-7672-4972-8467-abd19cd1bfc0",
+		"date": 20230912,
+		"label": "Jada Gilbert",
+		"sort": "Gilbert",
+		"id": "5965973",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5965973"
+	},
+	{
+		"brand": "Government",
+		"division": "608c2fbf-527d-4301-b40d-772cc8ad9ae3",
+		"employee": "b57e34a3-7672-4972-8467-abd19cd1bfc0",
+		"date": 20230915,
+		"label": "Miguel Uribarri",
+		"sort": "Uribarri",
+		"id": "5967849",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5967849"
+	},
+	{
+		"brand": "Government",
+		"division": "608c2fbf-527d-4301-b40d-772cc8ad9ae3",
+		"employee": "b57e34a3-7672-4972-8467-abd19cd1bfc0",
+		"date": 20230915,
+		"label": "Nicholas Theisen",
+		"sort": "Theisen",
+		"id": "5967884",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5967884"
+	},
+	{
+		"brand": "Government",
+		"division": "7c68cca2-7a29-4537-af94-bea499bdb065",
+		"employee": "d0857bc4-f4e8-44d0-8e2b-c616d75bc0fd",
+		"date": 20230911,
+		"label": "Zachariah Murphy",
+		"sort": "Murphy",
+		"id": "5133942",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5133942"
+	},
+	{
+		"brand": "Government",
+		"division": "608c2fbf-527d-4301-b40d-772cc8ad9ae3",
+		"employee": "d0857bc4-f4e8-44d0-8e2b-c616d75bc0fd",
+		"date": 20230912,
+		"label": "Javon Wilson",
+		"sort": "Wilson",
+		"id": "5598331",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5598331"
+	},
+	{
+		"brand": "Government",
+		"division": "608c2fbf-527d-4301-b40d-772cc8ad9ae3",
+		"employee": "d0857bc4-f4e8-44d0-8e2b-c616d75bc0fd",
+		"date": 20230912,
+		"label": "James Pressley",
+		"sort": "Pressley",
+		"id": "5711273",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5711273"
+	},
+	{
+		"brand": "Government",
+		"division": "7c68cca2-7a29-4537-af94-bea499bdb065",
+		"employee": "d0857bc4-f4e8-44d0-8e2b-c616d75bc0fd",
+		"date": 20230912,
+		"label": "James Pressley",
+		"sort": "Pressley",
+		"id": "5711273",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5711273"
+	},
+	{
+		"brand": "Government",
+		"division": "608c2fbf-527d-4301-b40d-772cc8ad9ae3",
+		"employee": "d0857bc4-f4e8-44d0-8e2b-c616d75bc0fd",
+		"date": 20230912,
+		"label": "Zachery Guy",
+		"sort": "Guy",
+		"id": "5882427",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5882427"
+	},
+	{
+		"brand": "Government",
+		"division": "608c2fbf-527d-4301-b40d-772cc8ad9ae3",
+		"employee": "d0857bc4-f4e8-44d0-8e2b-c616d75bc0fd",
+		"date": 20230912,
+		"label": "Michael Newcomb",
+		"sort": "Newcomb",
+		"id": "5901479",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5901479"
+	},
+	{
+		"brand": "Government",
+		"division": "608c2fbf-527d-4301-b40d-772cc8ad9ae3",
+		"employee": "d0857bc4-f4e8-44d0-8e2b-c616d75bc0fd",
+		"date": 20230912,
+		"label": "Akkili Coleman",
+		"sort": "Coleman",
+		"id": "5920766",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5920766"
+	},
+	{
+		"brand": "Government",
+		"division": "13640f37-e5d6-47fb-8457-1658aaf09c60",
+		"employee": "d0857bc4-f4e8-44d0-8e2b-c616d75bc0fd",
+		"date": 20230913,
+		"label": "Russell Farkouh",
+		"sort": "Farkouh",
+		"id": "5159335",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5159335"
+	},
+	{
+		"brand": "Government",
+		"division": "608c2fbf-527d-4301-b40d-772cc8ad9ae3",
+		"employee": "d0857bc4-f4e8-44d0-8e2b-c616d75bc0fd",
+		"date": 20230913,
+		"label": "Russell Farkouh",
+		"sort": "Farkouh",
+		"id": "5159335",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5159335"
+	},
+	{
+		"brand": "Government",
+		"division": "608c2fbf-527d-4301-b40d-772cc8ad9ae3",
+		"employee": "ebfa05dd-d82f-4661-99bd-a7da720f8507",
+		"date": 20230912,
+		"label": "Devin Mason",
+		"sort": "Mason",
+		"id": "5178711",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5178711"
+	},
+	{
+		"brand": "Government",
+		"division": "608c2fbf-527d-4301-b40d-772cc8ad9ae3",
+		"employee": "ebfa05dd-d82f-4661-99bd-a7da720f8507",
+		"date": 20230912,
+		"label": "Ray Robertson",
+		"sort": "Robertson",
+		"id": "5187267",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5187267"
+	},
+	{
+		"brand": "Government",
+		"division": "7c68cca2-7a29-4537-af94-bea499bdb065",
+		"employee": "ebfa05dd-d82f-4661-99bd-a7da720f8507",
+		"date": 20230912,
+		"label": "Ray Robertson",
+		"sort": "Robertson",
+		"id": "5187267",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5187267"
+	},
+	{
+		"brand": "Government",
+		"division": "608c2fbf-527d-4301-b40d-772cc8ad9ae3",
+		"employee": "ebfa05dd-d82f-4661-99bd-a7da720f8507",
+		"date": 20230913,
+		"label": "Katrina Coleman",
+		"sort": "Coleman",
+		"id": "5126550",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5126550"
+	},
+	{
+		"brand": "Government",
+		"division": "13640f37-e5d6-47fb-8457-1658aaf09c60",
+		"employee": "ebfa05dd-d82f-4661-99bd-a7da720f8507",
+		"date": 20230913,
+		"label": "Jonathan Flick",
+		"sort": "Flick",
+		"id": "5662690",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5662690"
+	},
+	{
+		"brand": "Government",
+		"division": "608c2fbf-527d-4301-b40d-772cc8ad9ae3",
+		"employee": "ebfa05dd-d82f-4661-99bd-a7da720f8507",
+		"date": 20230913,
+		"label": "Jonathan Flick",
+		"sort": "Flick",
+		"id": "5662690",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5662690"
+	},
+	{
+		"brand": "Government",
+		"division": "608c2fbf-527d-4301-b40d-772cc8ad9ae3",
+		"employee": "ebfa05dd-d82f-4661-99bd-a7da720f8507",
+		"date": 20230914,
+		"label": "Brenda Yurow",
+		"sort": "Yurow",
+		"id": "5186067",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5186067"
+	},
+	{
+		"brand": "Government",
+		"division": "608c2fbf-527d-4301-b40d-772cc8ad9ae3",
+		"employee": "ebfa05dd-d82f-4661-99bd-a7da720f8507",
+		"date": 20230914,
+		"label": "Russell Madison",
+		"sort": "Madison",
+		"id": "5242655",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5242655"
+	},
+	{
+		"brand": "Government",
+		"division": "13640f37-e5d6-47fb-8457-1658aaf09c60",
+		"employee": "ebfa05dd-d82f-4661-99bd-a7da720f8507",
+		"date": 20230914,
+		"label": "Ronald Stephenson",
+		"sort": "Stephenson",
+		"id": "5823904",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Candidate&id=5823904"
+	}
+]

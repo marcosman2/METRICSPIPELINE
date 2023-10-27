@@ -1,0 +1,482 @@
+[
+	{
+		"brand": "Government",
+		"division": "13640f37-e5d6-47fb-8457-1658aaf09c60",
+		"employee": "0063349f-eac2-46ba-921a-a6187b0669d6",
+		"date": 20230913,
+		"label": "Project Manager",
+		"sort": "Project Manager",
+		"id": "26125",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26125"
+	},
+	{
+		"brand": "ERP",
+		"division": "d3998400-e6f2-4dab-8874-8ae5e065c260",
+		"employee": "04469917-55dc-4fdf-802b-0bcef5c750c0",
+		"date": 20230915,
+		"label": "WFC Data Extraction Resource",
+		"sort": "WFC Data Extraction Resource",
+		"id": "26150",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26150"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "026ad33f-6dcb-4b1c-bd32-47b0eb0ff9ca",
+		"employee": "0cad53bb-60cb-4ca2-92f4-023b371bfcc5",
+		"date": 20230914,
+		"label": "Senior Medical Affairs Training Specialist",
+		"sort": "Senior Medical Affairs Training Specialist",
+		"id": "26138",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26138"
+	},
+	{
+		"brand": "Data Information Security & Sciences",
+		"division": "f4e9c17e-a9be-4282-84d9-0ff0317bde99",
+		"employee": "12c9a870-4703-4ad9-86ad-f5d6dafcf934",
+		"date": 20230915,
+		"label": "Cybersecurity Infrastructure Architect",
+		"sort": "Cybersecurity Infrastructure Architect",
+		"id": "26147",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26147"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "026ad33f-6dcb-4b1c-bd32-47b0eb0ff9ca",
+		"employee": "1a5a8f23-a33e-492e-9ef2-60dae127adc5",
+		"date": 20230916,
+		"label": "Pharmacovigilance Consultant",
+		"sort": "Pharmacovigilance Consultant",
+		"id": "26156",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26156"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "9603909a-57a4-4de5-aa5b-2e6699e26c2e",
+		"employee": "1db9c362-78f2-42ce-942e-7b7f2326fd58",
+		"date": 20230912,
+		"label": "Manufacturing Engineer / Manager per Schedule A",
+		"sort": "Manufacturing Engineer / Manager per Schedule A",
+		"id": "26121",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26121"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "aa240704-e241-48ee-b258-700f97fa2d46",
+		"employee": "21a29c87-a18a-4ad9-abd2-187e88506d59",
+		"date": 20230915,
+		"label": "Clinical Project Director",
+		"sort": "Clinical Project Director",
+		"id": "26151",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26151"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "99694809-d109-4daf-be1c-78919c76487c",
+		"employee": "27e71324-8171-434e-9215-5a66247a75d6",
+		"date": 20230911,
+		"label": "Regulatory IFU Technical Writer",
+		"sort": "Regulatory IFU Technical Writer",
+		"id": "26109",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26109"
+	},
+	{
+		"brand": "ERP",
+		"division": "255dcae6-e360-4e33-b938-68e191ccc794",
+		"employee": "2f8541a6-110a-4744-9b01-7581124e3d45",
+		"date": 20230913,
+		"label": "Oracle Cloud Functional ORC Resource",
+		"sort": "Oracle Cloud Functional ORC Resource",
+		"id": "26128",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26128"
+	},
+	{
+		"brand": "Data Information Security & Sciences",
+		"division": "f4e9c17e-a9be-4282-84d9-0ff0317bde99",
+		"employee": "311184a4-67ed-4430-bc4c-f9ddb01ac2e8",
+		"date": 20230914,
+		"label": "Application Security - Attack Surface Reduction Engineer",
+		"sort": "Application Security - Attack Surface Reduction Engineer",
+		"id": "26140",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26140"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "da7b37e9-c04c-4a31-a2a8-68816e30d45b",
+		"employee": "33523efa-9bc5-44fd-8c2e-0d8dd4b9c259",
+		"date": 20230914,
+		"label": "Complaints Intake Specialist",
+		"sort": "Complaints Intake Specialist",
+		"id": "26137",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26137"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "9603909a-57a4-4de5-aa5b-2e6699e26c2e",
+		"employee": "3c1c35f6-412e-4327-9a3b-3508620f29c2",
+		"date": 20230911,
+		"label": "Validation Engineer (TMV / Documentation)",
+		"sort": "Validation Engineer (TMV / Documentation)",
+		"id": "26108",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26108"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "9603909a-57a4-4de5-aa5b-2e6699e26c2e",
+		"employee": "3c1c35f6-412e-4327-9a3b-3508620f29c2",
+		"date": 20230915,
+		"label": "Validation Engineer (TMV / Documentation)",
+		"sort": "Validation Engineer (TMV / Documentation)",
+		"id": "26146",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26146"
+	},
+	{
+		"brand": "ERP",
+		"division": "fe815658-e659-4a69-8ac9-86815e6b4cce",
+		"employee": "3fe04381-7adc-4c40-8b7e-6fe9436b9407",
+		"date": 20230912,
+		"label": "Workday Senior Buyer",
+		"sort": "Workday Senior Buyer",
+		"id": "26118",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26118"
+	},
+	{
+		"brand": "ERP",
+		"division": "fe815658-e659-4a69-8ac9-86815e6b4cce",
+		"employee": "3fe04381-7adc-4c40-8b7e-6fe9436b9407",
+		"date": 20230912,
+		"label": "Workday Senior Buyer",
+		"sort": "Workday Senior Buyer",
+		"id": "26119",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26119"
+	},
+	{
+		"brand": "ERP",
+		"division": "368bd3e8-b83c-4590-9b7b-d560af7c841c",
+		"employee": "48b956a7-98ae-45fc-bc78-d580e13c952e",
+		"date": 20230912,
+		"label": "Workday Integrations Expert",
+		"sort": "Workday Integrations Expert",
+		"id": "26117",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26117"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "9603909a-57a4-4de5-aa5b-2e6699e26c2e",
+		"employee": "55584e33-f0b8-4797-b154-0ca8bb9039de",
+		"date": 20230914,
+		"label": "Systems Engineer",
+		"sort": "Systems Engineer",
+		"id": "26142",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26142"
+	},
+	{
+		"brand": "Data Information Security & Sciences",
+		"division": "f4e9c17e-a9be-4282-84d9-0ff0317bde99",
+		"employee": "590667d5-9243-493d-be6a-e276ed965090",
+		"date": 20230915,
+		"label": "DevSecOps Engineer",
+		"sort": "DevSecOps Engineer",
+		"id": "26152",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26152"
+	},
+	{
+		"brand": "ERP",
+		"division": "b9e85d11-75ce-4591-804b-42e5ae465cd6",
+		"employee": "5c3b4ff1-b3e2-4898-8b48-934d92171d09",
+		"date": 20230913,
+		"label": "SAP Concur Consultant",
+		"sort": "SAP Concur Consultant",
+		"id": "26122",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26122"
+	},
+	{
+		"brand": "ERP",
+		"division": "b9e85d11-75ce-4591-804b-42e5ae465cd6",
+		"employee": "5c3b4ff1-b3e2-4898-8b48-934d92171d09",
+		"date": 20230914,
+		"label": "Sr. SAP ABAP Developer",
+		"sort": "Sr. SAP ABAP Developer",
+		"id": "26139",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26139"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "befaddd7-800f-431d-aa63-a4de4533037b",
+		"employee": "6c9ec538-428f-4492-9f34-46ddb9e2196d",
+		"date": 20230915,
+		"label": "Field Action Coordinator",
+		"sort": "Field Action Coordinator",
+		"id": "26149",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26149"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "befaddd7-800f-431d-aa63-a4de4533037b",
+		"employee": "6c9ec538-428f-4492-9f34-46ddb9e2196d",
+		"date": 20230915,
+		"label": "Document Control / Change Management Coordinator",
+		"sort": "Document Control / Change Management Coordinator",
+		"id": "26148",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26148"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "da7b37e9-c04c-4a31-a2a8-68816e30d45b",
+		"employee": "6cc286e9-a59d-42a4-88c6-155e55194d1f",
+		"date": 20230913,
+		"label": "QC/Analytical Chemist",
+		"sort": "QC/Analytical Chemist",
+		"id": "26129",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26129"
+	},
+	{
+		"brand": "Data Information Security & Sciences",
+		"division": "f4e9c17e-a9be-4282-84d9-0ff0317bde99",
+		"employee": "6f5afcb0-30c4-498c-98ef-95d92f284944",
+		"date": 20230912,
+		"label": "Product Security Engineer",
+		"sort": "Product Security Engineer",
+		"id": "26120",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26120"
+	},
+	{
+		"brand": "ERP",
+		"division": "adad53ce-a56a-46d3-8367-2a35ea8048f6",
+		"employee": "71354e07-28b5-4ef3-be34-c0cd5ec1fbe8",
+		"date": 20230915,
+		"label": "UKG Pro Bi Reporting Expert",
+		"sort": "UKG Pro Bi Reporting Expert",
+		"id": "26155",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26155"
+	},
+	{
+		"brand": "ERP",
+		"division": "fe815658-e659-4a69-8ac9-86815e6b4cce",
+		"employee": "7793b291-8726-4697-a7e3-f3f46a7d91e4",
+		"date": 20230914,
+		"label": "Workday Financials Techno-Functional Analyst",
+		"sort": "Workday Financials Techno-Functional Analyst",
+		"id": "26136",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26136"
+	},
+	{
+		"brand": "HCIT",
+		"division": "65b5a58e-fed0-4f9a-9d08-f894a3fc1aea",
+		"employee": "797f9892-1899-4e10-ad52-d700308b697d",
+		"date": 20230911,
+		"label": "Certified Epic Willow Analyst",
+		"sort": "Certified Epic Willow Analyst",
+		"id": "26111",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26111"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "7966f74c-09a7-4190-85b5-b6b1e4e8731b",
+		"employee": "8097be21-ba2e-4d16-be26-e23b3736864c",
+		"date": 20230912,
+		"label": "Operations Strategic Planning Manager",
+		"sort": "Operations Strategic Planning Manager",
+		"id": "26115",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26115"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "aa240704-e241-48ee-b258-700f97fa2d46",
+		"employee": "840e50ec-8cfb-48f1-9308-0555a1ce6a8d",
+		"date": 20230913,
+		"label": "Medical Writer",
+		"sort": "Medical Writer",
+		"id": "26130",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26130"
+	},
+	{
+		"brand": "HCIT",
+		"division": "cc7febc3-0f1f-4687-b76b-4818ed83e6c3",
+		"employee": "87511bbd-820b-477b-ae5f-b61e8b5ff273",
+		"date": 20230913,
+		"label": "Cerner Cardiology Clinical Consultant",
+		"sort": "Cerner Cardiology Clinical Consultant",
+		"id": "26124",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26124"
+	},
+	{
+		"brand": "HCIT",
+		"division": "cc7febc3-0f1f-4687-b76b-4818ed83e6c3",
+		"employee": "87db08a1-c663-435e-b818-4be08b3576b1",
+		"date": 20230913,
+		"label": "Cerner RadNet Consultants - RFP 1499",
+		"sort": "Cerner RadNet Consultants - RFP 1499",
+		"id": "26134",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26134"
+	},
+	{
+		"brand": "Government",
+		"division": "608c2fbf-527d-4301-b40d-772cc8ad9ae3",
+		"employee": "9619da04-ca43-4d75-aa02-5889c6452254",
+		"date": 20230913,
+		"label": "Cyber Security Analyst",
+		"sort": "Cyber Security Analyst",
+		"id": "26126",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26126"
+	},
+	{
+		"brand": "Government",
+		"division": "608c2fbf-527d-4301-b40d-772cc8ad9ae3",
+		"employee": "9619da04-ca43-4d75-aa02-5889c6452254",
+		"date": 20230913,
+		"label": "ISSE",
+		"sort": "ISSE",
+		"id": "26131",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26131"
+	},
+	{
+		"brand": "Government",
+		"division": "608c2fbf-527d-4301-b40d-772cc8ad9ae3",
+		"employee": "9a308242-d648-494e-899d-af082de904f5",
+		"date": 20230911,
+		"label": "Data Scientist",
+		"sort": "Data Scientist",
+		"id": "26110",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26110"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "7966f74c-09a7-4190-85b5-b6b1e4e8731b",
+		"employee": "ad8c59a6-b40b-48fe-8f8b-d32ca6abd44b",
+		"date": 20230913,
+		"label": "Cleaning Validation Engineer",
+		"sort": "Cleaning Validation Engineer",
+		"id": "26127",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26127"
+	},
+	{
+		"brand": "HCIT",
+		"division": "cc7febc3-0f1f-4687-b76b-4818ed83e6c3",
+		"employee": "b01bddbc-4ac2-42fb-b97d-2e1397cde3c3",
+		"date": 20230915,
+		"label": "Cerner PathNet Build Consultant",
+		"sort": "Cerner PathNet Build Consultant",
+		"id": "26153",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26153"
+	},
+	{
+		"brand": "ERP",
+		"division": "255dcae6-e360-4e33-b938-68e191ccc794",
+		"employee": "b3387d74-9f16-433f-9c08-afccbb65c4fc",
+		"date": 20230912,
+		"label": "Functional Inventory Management BA",
+		"sort": "Functional Inventory Management BA",
+		"id": "26114",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26114"
+	},
+	{
+		"brand": "ERP",
+		"division": "368bd3e8-b83c-4590-9b7b-d560af7c841c",
+		"employee": "bc5f3f67-de95-412b-9798-13edb57c8b07",
+		"date": 20230913,
+		"label": "Workday HCM Architect",
+		"sort": "Workday HCM Architect",
+		"id": "26135",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26135"
+	},
+	{
+		"brand": "ERP",
+		"division": "368bd3e8-b83c-4590-9b7b-d560af7c841c",
+		"employee": "bc5f3f67-de95-412b-9798-13edb57c8b07",
+		"date": 20230913,
+		"label": "Workday Recruiting Architect",
+		"sort": "Workday Recruiting Architect",
+		"id": "26123",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26123"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "026ad33f-6dcb-4b1c-bd32-47b0eb0ff9ca",
+		"employee": "c01e25b6-b8ae-4f7d-9215-2052d71e9c85",
+		"date": 20230913,
+		"label": "Medical Affairs BIS Operations Lead",
+		"sort": "Medical Affairs BIS Operations Lead",
+		"id": "26132",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26132"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "7966f74c-09a7-4190-85b5-b6b1e4e8731b",
+		"employee": "cdced08f-a72b-4530-b6e2-9bd0c4772f16",
+		"date": 20230914,
+		"label": "Project Manager",
+		"sort": "Project Manager",
+		"id": "26143",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26143"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "7966f74c-09a7-4190-85b5-b6b1e4e8731b",
+		"employee": "cdced08f-a72b-4530-b6e2-9bd0c4772f16",
+		"date": 20230914,
+		"label": "Calibration Technician",
+		"sort": "Calibration Technician",
+		"id": "26141",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26141"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "9603909a-57a4-4de5-aa5b-2e6699e26c2e",
+		"employee": "d1105d11-bac8-4fd3-93e4-bed98d6d5ffb",
+		"date": 20230911,
+		"label": "Manufacturing Engineer",
+		"sort": "Manufacturing Engineer",
+		"id": "26107",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26107"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "9603909a-57a4-4de5-aa5b-2e6699e26c2e",
+		"employee": "d1105d11-bac8-4fd3-93e4-bed98d6d5ffb",
+		"date": 20230914,
+		"label": "Sr Project Manager (NPD Systems)",
+		"sort": "Sr Project Manager (NPD Systems)",
+		"id": "26144",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26144"
+	},
+	{
+		"brand": "Life Sciences",
+		"division": "9603909a-57a4-4de5-aa5b-2e6699e26c2e",
+		"employee": "dc8c1d70-e081-4f51-a4d1-101a939cabf9",
+		"date": 20230912,
+		"label": "Software Quality Assurance",
+		"sort": "Software Quality Assurance",
+		"id": "26116",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26116"
+	},
+	{
+		"brand": "ERP",
+		"division": "368bd3e8-b83c-4590-9b7b-d560af7c841c",
+		"employee": "f1e0f8ba-74c7-4a32-b77d-036d843c0212",
+		"date": 20230913,
+		"label": "Workday Payroll, Absence & Time Expert",
+		"sort": "Workday Payroll, Absence & Time Expert",
+		"id": "26133",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26133"
+	},
+	{
+		"brand": "HCIT",
+		"division": "cc7febc3-0f1f-4687-b76b-4818ed83e6c3",
+		"employee": "fb84c036-bb52-4f54-9c3f-155f98d1d9fc",
+		"date": 20230911,
+		"label": "Cerner Regulatory Analyst",
+		"sort": "Cerner Regulatory Analyst",
+		"id": "26112",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26112"
+	},
+	{
+		"brand": "HCIT",
+		"division": "cc7febc3-0f1f-4687-b76b-4818ed83e6c3",
+		"employee": "fb84c036-bb52-4f54-9c3f-155f98d1d9fc",
+		"date": 20230915,
+		"label": "Soarian Financials SME - Charge Services",
+		"sort": "Soarian Financials SME - Charge Services",
+		"id": "26154",
+		"bullhornUrl": "https://cls42.bullhornstaffing.com/BullhornSTAFFING/OpenWindow.cfm?Entity=Placement&id=26154"
+	}
+]
